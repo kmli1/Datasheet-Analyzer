@@ -1,0 +1,16 @@
+{
+  "status": "release_candidate_not_published",
+  "applicationId": "com.kmli1.datasheetanalyzer",
+  "versionCode": 9,
+  "versionName": "1.0.1",
+  "title": "Datasheet Analyzer",
+  "shortDescription": "Komponent datasheetlerini bul, kaynak sayfalarını incele ve değerleri analiz et.",
+  "fullDescription": "Komponent kodunu yaz veya kamerayla tara. Üretici PDF kaynaklarını ve bağımsız datasheet arşivini bul. Gerektiğinde PDF sayfalarında cihazda OCR kullan. Yerel PDF seç, ayrı sonuç ekranında belge kanıtlarını, elektriksel değerleri ve kaynak sayfalarını incele. Favoriler, son aramalar ve sınırlı çevrimdışı belge önbelleği kullan. Sayısal değerler, belge kimliği ve yeterli kanıt bulunmadan otomatik gösterilmez. Site erişim sınırlamaları, görüntü kalitesi ve eksik sayfalar analizi etkileyebilir. Sonuçları orijinal datasheet ile doğrula.",
+  "remainingBeforePublication": [
+    "Publisher support email",
+    "Public privacy policy HTTPS URL",
+    "Review Data Safety and content rating",
+    "Real phone screenshots and Play Console prelaunch report",
+    "16 KB device runtime validation"
+  ]
+}

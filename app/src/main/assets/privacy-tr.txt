@@ -1,0 +1,18 @@
+Gizlilik ve bilgi — 3 Ekim 2026
+
+Kamera görüntüleri, seçilen yerel PDF ve tanınan belge metni cihazda işlenir. Uygulamanın kendi sunucusu, hesabı, reklamı ve reklam kimliği yoktur. Kamera yalnızca kullanıcı izin verip tarayıcıyı açtığında kullanılır; depolama izni istenmez.
+
+Parça kodu ve kaynak adresleri arama motoruna ve seçilen datasheet sitesine gönderilir. Bu hizmetler IP adresini ve HTTP istemci bilgisini görebilir. Özel kriterler, yerel PDF dosyaları ve kamera fotoğrafları bu arama isteklerine eklenmez. Bir kaynak sayfasını dış tarayıcıda açmak o sitenin kurallarına tabidir.
+
+Google ML Kit cihazda OCR yapar. SDK ayrıca cihaz, uygulama ve kurulum tanımlayıcıları, performans ve hata ölçümleri ile görüntü boyutu/biçimi gibi teknik tanılama verilerini HTTPS üzerinden toplayabilir. Bu, tanınan belge içeriğinin uygulama tarafından bir bulut OCR hizmetine gönderildiği anlamına gelmez. SDK veri açıklaması: https://developers.google.com/ml-kit/android-data-disclosure
+Koşullar: https://developers.google.com/ml-kit/terms
+
+Son aramalar ve favoriler cihazda tutulur. Doğrulanmış belgelerin önbelleği en fazla 7 gün, 12 belge ve 100 MB ile sınırlıdır. Kayıtlarım ekranından geçmiş, favoriler, önbellek ve uygulamanın geçici belge dosyaları silinebilir. Seçtiğiniz asıl dosyalar silinmez. Uygulama verileri bulut yedeğine veya cihaz aktarımına dahil edilmez.
+
+Proje klasörleri, kaydedilmiş analiz sonuçları, notlar, etiketler ve özel analiz şablonları yalnızca cihazda saklanır. Bunlar sunucuya yüklenmez. Kayıtlarım temizleme işlemi bu kayıtları da siler. Kaydedilen analiz, orijinal PDF dosyasının kalıcı kopyasını içermez; belge önbelleği ayrı süre sınırlarına tabidir.
+
+Analiz PDF raporu, CSV tabloları, sayfa PNG'si ve seçilen grafik alanı cihazda oluşturulur. Girilen çalışma koşulları ve elle seçilen yaklaşık grafik noktaları yalnız cihazda işlenir; çalışma koşulları ve grafik noktaları uygulama tarafından bir sunucuya gönderilmez. Varyant seçilirse yalnız yeni parça kodu arama isteğine eklenir. Kaydetmek için Android dosya seçicisinden bir konum seçersiniz; bulut depolama sağlayıcısı seçilirse dosyayı o sağlayıcı saklar. Bu çıktılar uygulama tarafından ayrıca bir sunucuya gönderilmez. Kayıtlarım temizliği uygulamanın geçici dışa aktarma kopyalarını siler; sizin kaydettiğiniz rapor ve görselleri silmez.
+
+HTML sayfa metni ve OCR sonucu hata veya eksik sayfa içerebilir. Belge kimliği okunamadığında inceleme istenir; yanlış belge olduğu varsayılmaz. Teknik değerleri orijinal kaynakta doğrulayın. PDF güvenlik denetimleri antivirüs garantisi değildir.
+
+Yayıncı iletişim adresi henüz ayarlanmadı. Mağazaya yayımlamadan önce gerçek iletişim e-postası ve erişilebilir gizlilik politikası adresi eklenmelidir.

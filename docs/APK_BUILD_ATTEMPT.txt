@@ -1,0 +1,14 @@
+Stage 3 build attempt
+Command: gradle :app:assembleDebug --offline --no-daemon --stacktrace
+Executable: locally cached Gradle 8.13 distribution
+Project: DatasheetAnalyzer (AGP 8.12.0, wrapper Gradle 8.13)
+Result: exit code 1; no APK generated
+
+Observed error excerpt:
+Failed to create Jar file /root/.gradle/caches/8.13/generated-gradle-jars/gradle-api-8.13.jar
+Caused by: java.util.zip.ZipException: zip END header not found
+
+The build failed in the local Gradle runtime/cache before Android source compilation.
+Target dependencies could not be refreshed in this environment.
+This is not a successful Android build and does not prove Android source compatibility.
+Run the README build commands in Android Studio with working dependency access.

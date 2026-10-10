@@ -1,0 +1,8 @@
+Independent JVM run; see VERIFICATION.md for scope and dependency differences.
+
+JUnit version 4.13.2
+............................................
+Time: 0.174
+
+OK (44 tests)
+

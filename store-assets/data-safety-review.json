@@ -1,0 +1,15 @@
+{
+  "status": "draft_requires_publisher_review",
+  "camera_and_pdf_content": "processed locally, no own cloud OCR server",
+  "third_party_sdk": "ML Kit may collect device/app/installation identifiers, diagnostic and performance information over HTTPS",
+  "reference": "https://developers.google.com/ml-kit/android-data-disclosure",
+  "search_network": "part code and source URL sent to selected search/archive service; remote service sees IP/HTTP client",
+  "no_account_no_ads": true,
+  "deletion": "in-app local history/cache deletion; original imported file retained",
+  "categories_to_review": [
+    "Device or other IDs",
+    "App performance and diagnostics"
+  ],
+  "publisher_contact": null,
+  "privacy_policy_url": null
+}

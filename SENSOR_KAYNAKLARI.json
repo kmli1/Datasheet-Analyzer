@@ -1,0 +1,6365 @@
+{
+  "reviewed_on": "2026-10-09",
+  "documents": [
+    {
+      "name": "lm35",
+      "url": "https://www.ti.com/lit/ds/symlink/lm35.pdf",
+      "sha256": "673b1c075b8f5a0653f77906c897ea5aec41a1dec02514770587100587c05eb9",
+      "bytes": 1416820,
+      "pages": 38,
+      "revision": "SNIS159H / Rev. H"
+    },
+    {
+      "name": "tmp36",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf",
+      "sha256": "6ce062fb73f0bebb61f82775aca0be56903c2b8484a7fc89a0cf71961189f8ee",
+      "bytes": 430522,
+      "pages": 19,
+      "revision": "TMP35/36/37 / Rev. H"
+    },
+    {
+      "name": "tmp102",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp102.pdf",
+      "sha256": "c9da6620ef95f75ce94372f670a84d168e05922dd32cebfaa6517083f15ebfaf",
+      "bytes": 1151760,
+      "pages": 33,
+      "revision": "SBOS397I / Rev. I"
+    },
+    {
+      "name": "tmp112",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp112.pdf",
+      "sha256": "c70ca5900fabd8990e735aff3bb5cddb0b6da113b4a472d208c9181e3eb1b385",
+      "bytes": 1786014,
+      "pages": 46,
+      "revision": "SBOS473L / Rev. L"
+    },
+    {
+      "name": "tmp117",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp117.pdf",
+      "sha256": "afe974873c80a7a4e1d342e9044e71c6f905caf4f04c1f0ea0df5c6ba35f980e",
+      "bytes": 1717870,
+      "pages": 50,
+      "revision": "SNOSD82D / Rev. D"
+    },
+    {
+      "name": "sht3x",
+      "url": "https://admin.sensirion.com/media/documents/213E6A3B/63A5A569/Datasheet_SHT3x_DIS.pdf",
+      "sha256": "095b1853e7f4328f5897c9ca6c392a7dd8b0202eda66b0a2629f9cb840dd496d",
+      "bytes": 810136,
+      "pages": 22,
+      "revision": "SHT3x-DIS / V7, 12/2022"
+    },
+    {
+      "name": "sht4x",
+      "url": "https://sensirion.com/media/documents/33FD6951/661CD142/HT_DS_Datasheet_SHT4x.pdf",
+      "sha256": "2d471eb9d9f57f619f697118a579240eaf160b8aa49275e0170ccf33eda16e93",
+      "bytes": 974515,
+      "pages": 24,
+      "revision": "SHT4x / V6.5, 04/2024"
+    },
+    {
+      "name": "bmp280",
+      "url": "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp280-ds001.pdf",
+      "sha256": "473ff27d9df698b4757e36b36209f83b9f637b592c999d5fabe2a9453a488da6",
+      "bytes": 1162932,
+      "pages": 49,
+      "revision": "BST-BMP280-DS001-26 / V1.26"
+    },
+    {
+      "name": "bme280",
+      "url": "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf",
+      "sha256": "a2ccdb449fec94380742fe8eec851a11d9bd4142252d332b34682b4deecd7d89",
+      "bytes": 1663806,
+      "pages": 60,
+      "revision": "BST-BME280-DS001-24 / V1.24"
+    },
+    {
+      "name": "bmp390",
+      "url": "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp390-ds002.pdf",
+      "sha256": "8dcf0f74449cb1627e865c7f24d328b76c204d8b9621091ede8c6869fb393e48",
+      "bytes": 1930878,
+      "pages": 59,
+      "revision": "BST-BMP390-DS002-07 / V1.7"
+    },
+    {
+      "name": "lis3dh",
+      "url": "https://www.st.com/resource/en/datasheet/lis3dh.pdf",
+      "sha256": "852bfcf1a993f04cc147f26a26612a22fdc307c234f3e53d2c24c850ad421533",
+      "bytes": 1056997,
+      "pages": 54,
+      "revision": "DocID17530 / Rev. 2"
+    },
+    {
+      "name": "lis2dh12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2dh12.pdf",
+      "sha256": "eb79e6ee9ca70ef91f17c695fd5d2c6c6b24525b87b9ae41537bcb348f6cad56",
+      "bytes": 1142100,
+      "pages": 53,
+      "revision": "DocID025056 / Rev. 6"
+    },
+    {
+      "name": "vl53l0x",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l0x.pdf",
+      "sha256": "f0ae51414474d311bc24c60cd77bfff968ea5c2b3765b2fb2a390b3078dd49be",
+      "bytes": 2234827,
+      "pages": 38,
+      "revision": "DS11555 / Rev. 6"
+    },
+    {
+      "name": "vl53l1x",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l1x.pdf",
+      "sha256": "b7f4174afaff82a82b5af68746e2df6f946a0de6733608e376b320a8cee6034a",
+      "bytes": 3206368,
+      "pages": 36,
+      "revision": "DS12385 / Rev. 8"
+    },
+    {
+      "name": "bme680",
+      "url": "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf",
+      "sha256": "8e42b591a9cabd84ae3377f2ea11e794120e4140dc4f0e4f29a30be3d1f6c9f6",
+      "bytes": 1390985,
+      "pages": 53,
+      "revision": "BST-BME680-DS001-09 / V1.9"
+    },
+    {
+      "name": "bme688",
+      "url": "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme688-ds000.pdf",
+      "sha256": "fce73ae028a985b3265ce3dbc17ab5b7bea1ae31b7ea84c6698c7694083e2478",
+      "bytes": 2046627,
+      "pages": 60,
+      "revision": "BST-BME688-DS000-03 / V1.3"
+    },
+    {
+      "name": "adt7301",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7301.pdf",
+      "sha256": "2d1cfa264960851c28bab9bd239d00f6dac3dbb1a1f4bd865f10a37ef27f66ac",
+      "bytes": 286474,
+      "pages": 16,
+      "revision": "Rev. B"
+    },
+    {
+      "name": "adt7310",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7310.pdf",
+      "sha256": "fb0898cef1d109e453511092138981e40b11e4a501ae507684e38cccef15cbc7",
+      "bytes": 402614,
+      "pages": 24,
+      "revision": "Rev. A"
+    },
+    {
+      "name": "adt7320",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7320.pdf",
+      "sha256": "3709e03ddba8d5b4bec87bbe7d43dc806cbfff69d77e05f0ae5cba7234c5418b",
+      "bytes": 427452,
+      "pages": 24,
+      "revision": "Rev. 0"
+    },
+    {
+      "name": "adt7410",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7410.pdf",
+      "sha256": "851fccff72ea7020979a3ec38950f7f5b31901686699613a14e001b758762af7",
+      "bytes": 437494,
+      "pages": 24,
+      "revision": "Rev. C"
+    },
+    {
+      "name": "adt7420",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7420.pdf",
+      "sha256": "e506f327da4d2aa5862687eed954a9c961fcf39938f54febdd759dedcc25e890",
+      "bytes": 445096,
+      "pages": 24,
+      "revision": "SOFTWARE"
+    },
+    {
+      "name": "adt7422",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7422.pdf",
+      "sha256": "6a5ed6cbcabf6b52f5f83001414fe2d0896a88c95756a40412ee5ba3fbde3220",
+      "bytes": 421849,
+      "pages": 23,
+      "revision": "Rev. A"
+    },
+    {
+      "name": "adxl326",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf",
+      "sha256": "21f3c1e020f298018567c034bc4547f9d5107db86037bd56ffe1f09c669a379e",
+      "bytes": 309403,
+      "pages": 16,
+      "revision": "Rev. 0"
+    },
+    {
+      "name": "adxl327",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL327.pdf",
+      "sha256": "9727e9248370be92ee7b98da8af497285f147d4d7692bfffa31a76648ae361ee",
+      "bytes": 332474,
+      "pages": 16,
+      "revision": "Rev. 0"
+    },
+    {
+      "name": "adxl335",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf",
+      "sha256": "9b3e4dea71d6bdb21bea7221c9b7132eef511c002420160504bffb8025c53e79",
+      "bytes": 434715,
+      "pages": 16,
+      "revision": "Rev. B"
+    },
+    {
+      "name": "adxl345",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf",
+      "sha256": "87ae2212498c35a6759d8732adee0ec9b9d8d60fa95688bc5904f1f07ceb8ff6",
+      "bytes": 1487158,
+      "pages": 36,
+      "revision": "SUPPORT"
+    },
+    {
+      "name": "adxl346",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL346.pdf",
+      "sha256": "724d2702f279a9be18d5af89cf5fe7fe9021c9073baca0be9074962b44ab2807",
+      "bytes": 689673,
+      "pages": 40,
+      "revision": "Rev. C"
+    },
+    {
+      "name": "adxl350",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL350.pdf",
+      "sha256": "5092d0ddf0eeab17823a238e04ace466e945fd021ad668a2849b8b9b2298d1e3",
+      "bytes": 559279,
+      "pages": 36,
+      "revision": "Rev. 0"
+    },
+    {
+      "name": "adxl362",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf",
+      "sha256": "895468ab604df0a02c9f9c9cee31531eac764980f8ebc1812fbe61d9d6b1172b",
+      "bytes": 1728067,
+      "pages": 47,
+      "revision": "SUPPORT"
+    },
+    {
+      "name": "adxl372",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL372.pdf",
+      "sha256": "7eebd756a3ef1f06baef0b05bf0515dffd6e87f20382eaa78236cb1c7ee8dcfb",
+      "bytes": 2650332,
+      "pages": 61,
+      "revision": "SUPPORT"
+    },
+    {
+      "name": "adxl375",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL375.pdf",
+      "sha256": "8250d9a22b8a56d7070810c89a3ed40f4abcd326a89633719359fe0be7a4ef81",
+      "bytes": 505274,
+      "pages": 32,
+      "revision": "Rev. B"
+    },
+    {
+      "name": "adxl377",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf",
+      "sha256": "3a99201c4a6775b57e3277e2200e507e52720174540f00f0b6265b904be87ab0",
+      "bytes": 264568,
+      "pages": 12,
+      "revision": "Rev. B"
+    },
+    {
+      "name": "drv5023",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5023.pdf",
+      "sha256": "848cbd0c346589d8dc0466e1537d61d274913762eece724907c558f370f3a4de",
+      "bytes": 795844,
+      "pages": 32,
+      "revision": "SLIS151G"
+    },
+    {
+      "name": "drv5032",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5032.pdf",
+      "sha256": "0bdec04d64591bbb62c74f2e5d4dc10f21de5f76b0b0f12fca5c6a277037ceee",
+      "bytes": 2129049,
+      "pages": 44,
+      "revision": "SLVSDC7H"
+    },
+    {
+      "name": "drv5033",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5033.pdf",
+      "sha256": "397f1a51908fee1642a3d52e95977d3d05d35fd75fac769554eece78b4d4aabc",
+      "bytes": 854553,
+      "pages": 32,
+      "revision": "SLIS152G"
+    },
+    {
+      "name": "drv5053",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5053.pdf",
+      "sha256": "80aebab55793b9b7274af95c6c2ef0c82cc69fa81e0d9567c446a067c3cb226c",
+      "bytes": 1241199,
+      "pages": 28,
+      "revision": "SLIS153D"
+    },
+    {
+      "name": "drv5055",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5055.pdf",
+      "sha256": "d04305a4ae7a603f95286c957160945ad5c7156b3d4e2137d47d74f614dd3194",
+      "bytes": 1372343,
+      "pages": 35,
+      "revision": "SBAS640C"
+    },
+    {
+      "name": "drv5056",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5056.pdf",
+      "sha256": "314b0b34c7cd83c714859fd0caf0978f6a717eddf89912eb449f23019a1f7e2b",
+      "bytes": 1318353,
+      "pages": 37,
+      "revision": "SBAS644C"
+    },
+    {
+      "name": "drv5057",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5057.pdf",
+      "sha256": "1aa569874ffbdeaa98374f14cb02e5e885d1a0c070532b07b66adc0da86b4140",
+      "bytes": 1350296,
+      "pages": 36,
+      "revision": "SBAS646A"
+    },
+    {
+      "name": "h3lis331dl",
+      "url": "https://www.st.com/resource/en/datasheet/h3lis331dl.pdf",
+      "sha256": "89554047021f1ba6c32833be204b6cc35712049cedb6a69f2559cf1d9bd868f7",
+      "bytes": 1763013,
+      "pages": 33,
+      "revision": "DS9012 - Rev 5"
+    },
+    {
+      "name": "hdc1000",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1000.pdf",
+      "sha256": "8e5476b51521c1015431ae90c1bc7cbdc82afdf8e1cbd98c7f2b2bc06d2973dd",
+      "bytes": 1068687,
+      "pages": 30,
+      "revision": "SNAS643C"
+    },
+    {
+      "name": "hdc1008",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1008.pdf",
+      "sha256": "cc84582b06f50b1c81091e299e0f382412ec40b6ce5e6c0a85d47d03e9aa31a7",
+      "bytes": 1071063,
+      "pages": 29,
+      "revision": "SNAS649B"
+    },
+    {
+      "name": "hdc1010",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1010.pdf",
+      "sha256": "0f7b989441c34f57dac29fa9deab6a58fab00c5a234a516f4ce92fe2a37f20dd",
+      "bytes": 1061244,
+      "pages": 29,
+      "revision": "SNAS685A"
+    },
+    {
+      "name": "hdc1050",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1050.pdf",
+      "sha256": "799debae6582d031e3d4be0a45395f7bb9b663d10b05645a827b93c95dddbdfe",
+      "bytes": 1190768,
+      "pages": 28,
+      "revision": "SNAS658C"
+    },
+    {
+      "name": "hdc1080",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1080.pdf",
+      "sha256": "ff9fed45056ad05762d46f11905f1f14df425b8a8ef2d0d9cbb813c5711735e4",
+      "bytes": 809053,
+      "pages": 29,
+      "revision": "SNAS672A"
+    },
+    {
+      "name": "hdc2010",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc2010.pdf",
+      "sha256": "764733c7ce5bfce17adde093ed27da34795ee03c553975af10000c0d412394c6",
+      "bytes": 1266582,
+      "pages": 41,
+      "revision": "SNAS693D"
+    },
+    {
+      "name": "hdc2021",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc2021.pdf",
+      "sha256": "bbe3256eb811eb000f871eb3740449bd9ad2adf60db91d859ac433131d6d0a27",
+      "bytes": 1594801,
+      "pages": 48,
+      "revision": "SNAS773A"
+    },
+    {
+      "name": "hdc2022",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc2022.pdf",
+      "sha256": "71ad6b79aa6769e9c8b3fa850092ba5fa5b40880a5f33f6a59810c4d5f78819c",
+      "bytes": 1593147,
+      "pages": 48,
+      "revision": "SNAS774A"
+    },
+    {
+      "name": "hdc2080",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc2080.pdf",
+      "sha256": "e47d6255a65708424f194179a15321af3aca201a5840a1c9650850f6b084af10",
+      "bytes": 1488860,
+      "pages": 43,
+      "revision": "SNAS678C"
+    },
+    {
+      "name": "hdc3020",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc3020.pdf",
+      "sha256": "733d31c0cfce545c4caa1e2a3b03ed3ca7191dbc165f171a0e2650b679328cc7",
+      "bytes": 2258738,
+      "pages": 54,
+      "revision": "SNAS778D"
+    },
+    {
+      "name": "hdc3021",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc3021.pdf",
+      "sha256": "733d31c0cfce545c4caa1e2a3b03ed3ca7191dbc165f171a0e2650b679328cc7",
+      "bytes": 2258738,
+      "pages": 54,
+      "revision": "SNAS778D"
+    },
+    {
+      "name": "hdc3022",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc3022.pdf",
+      "sha256": "733d31c0cfce545c4caa1e2a3b03ed3ca7191dbc165f171a0e2650b679328cc7",
+      "bytes": 2258738,
+      "pages": 54,
+      "revision": "SNAS778D"
+    },
+    {
+      "name": "hts221",
+      "url": "https://www.st.com/resource/en/datasheet/hts221.pdf",
+      "sha256": "5fdb3e71a30d4c28c956380ed81c673734aaf630f94d66a9de1b3dd38585d7af",
+      "bytes": 774496,
+      "pages": 33,
+      "revision": "DocID026333 Rev 5"
+    },
+    {
+      "name": "iis2dh",
+      "url": "https://www.st.com/resource/en/datasheet/iis2dh.pdf",
+      "sha256": "5ab95d44138897babc8884c3c31458b436523b036dd2a6d0306874450227ab7c",
+      "bytes": 1082151,
+      "pages": 49,
+      "revision": "DocID027668 Rev 2"
+    },
+    {
+      "name": "iis2dlpc",
+      "url": "https://www.st.com/resource/en/datasheet/iis2dlpc.pdf",
+      "sha256": "6468d04d7b6a9dbe8e683dba3b6b8e13c1732f411027de38c11fa4fc2722767b",
+      "bytes": 1676092,
+      "pages": 69,
+      "revision": "DocID031788 Rev 4"
+    },
+    {
+      "name": "iis2iclx",
+      "url": "https://www.st.com/resource/en/datasheet/iis2iclx.pdf",
+      "sha256": "7202af8a578aa2ebc97484d89792eaed5aaa0c8cc3405374185b2790eb26e9c2",
+      "bytes": 3549190,
+      "pages": 119,
+      "revision": "DS13005 - Rev 7"
+    },
+    {
+      "name": "iis2mdc",
+      "url": "https://www.st.com/resource/en/datasheet/iis2mdc.pdf",
+      "sha256": "0e09a086ae01b5b069c99a77326952c8b1f0c6b97fd476fef3cbc37ceba09c4f",
+      "bytes": 1132099,
+      "pages": 40,
+      "revision": "DocID030986 Rev 1"
+    },
+    {
+      "name": "iis3dwb",
+      "url": "https://www.st.com/resource/en/datasheet/iis3dwb.pdf",
+      "sha256": "c73d5e0c9b9ec498955e4d409d2f1009e7a7949f36194001e1bd0fadc12f44df",
+      "bytes": 3329593,
+      "pages": 59,
+      "revision": "DS12569 - Rev 8"
+    },
+    {
+      "name": "ilps22qs",
+      "url": "https://www.st.com/resource/en/datasheet/ilps22qs.pdf",
+      "sha256": "f463265fffcff9551529f877d85ca05a5b21f6d0ed6e829880c386a54cc61a8b",
+      "bytes": 2796841,
+      "pages": 57,
+      "revision": "DS13431 - Rev 4"
+    },
+    {
+      "name": "ilps28qsw",
+      "url": "https://www.st.com/resource/en/datasheet/ilps28qsw.pdf",
+      "sha256": "60635504e6849fd990c19c46d6ac60f5702944b358db27ebad3cb2feb67aae88",
+      "bytes": 2332018,
+      "pages": 52,
+      "revision": "DS13905 - Rev 1"
+    },
+    {
+      "name": "ism330bx",
+      "url": "https://www.st.com/resource/en/datasheet/ism330bx.pdf",
+      "sha256": "650d66a58655518b8927dbba7c083f58da317f8ae9b721f439a0c1f129b19da2",
+      "bytes": 7463221,
+      "pages": 150,
+      "revision": "DS14588 - Rev 2"
+    },
+    {
+      "name": "ism330dhcx",
+      "url": "https://www.st.com/resource/en/datasheet/ism330dhcx.pdf",
+      "sha256": "4ebd304610da62f31775389ee3ce1a98f596b1331114959e9e052b3f602de8fa",
+      "bytes": 2597969,
+      "pages": 167,
+      "revision": "DS13012 - Rev 7"
+    },
+    {
+      "name": "ism330dlc",
+      "url": "https://www.st.com/resource/en/datasheet/ism330dlc.pdf",
+      "sha256": "72efc26196063c2427691fd34c07d8282200e94a9ff68846a78d8535fc314052",
+      "bytes": 3801993,
+      "pages": 113,
+      "revision": "DS12171 - Rev 4"
+    },
+    {
+      "name": "ism330is",
+      "url": "https://www.st.com/resource/en/datasheet/ism330is.pdf",
+      "sha256": "804cb7333590d0178f2d9bae0a65709ac2eadff4e2991a7d652ba6168d8ea71c",
+      "bytes": 6067315,
+      "pages": 105,
+      "revision": "DS13763 - Rev 2"
+    },
+    {
+      "name": "l3gd20",
+      "url": "https://www.st.com/resource/en/datasheet/l3gd20.pdf",
+      "sha256": "40bd2de33fcae783d18928e27c54cfab45496bb8786359f31878f43c11e21d1e",
+      "bytes": 2201728,
+      "pages": 44,
+      "revision": "DocID022116 Rev 2"
+    },
+    {
+      "name": "lis2de12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2de12.pdf",
+      "sha256": "f92fb27b58bec57de8b72b70be5e378b44f07aa2d10755126840b95dc162ea43",
+      "bytes": 1136487,
+      "pages": 51,
+      "revision": "DocID027326 Rev 2"
+    },
+    {
+      "name": "lis2ds12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2ds12.pdf",
+      "sha256": "d417976745afc7697ad2e91f4244bf22ab7515925012cccfdb7e22566f1e6bca",
+      "bytes": 1301929,
+      "pages": 69,
+      "revision": "DocID027753 Rev 7"
+    },
+    {
+      "name": "lis2du12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2du12.pdf",
+      "sha256": "35d2b671b707faa0cbee25d8a2b4cd6d62caf0b5bd6b43042cba9eaeffd11852",
+      "bytes": 3065907,
+      "pages": 58,
+      "revision": "DS12422 - Rev 7"
+    },
+    {
+      "name": "lis2dux12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2dux12.pdf",
+      "sha256": "110b056baffe8c6be6ad33a100b91b7fef59ebc99b51feecbf98b9b1eb2cef84",
+      "bytes": 5494584,
+      "pages": 107,
+      "revision": "DS14071 - Rev 9"
+    },
+    {
+      "name": "lis2duxs12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2duxs12.pdf",
+      "sha256": "82782f40586ef3f6299e9867e63b146f8233bb3ca0019be106ce927f68244f5a",
+      "bytes": 5633545,
+      "pages": 110,
+      "revision": "DS14035 - Rev 9"
+    },
+    {
+      "name": "lis2dw12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2dw12.pdf",
+      "sha256": "5208623aa91c63a33be0e930518c20f5210c4eb76932350f35369687ae1d0dd5",
+      "bytes": 3215600,
+      "pages": 65,
+      "revision": "DS11811 - Rev 9"
+    },
+    {
+      "name": "lis2hh12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2hh12.pdf",
+      "sha256": "f73c1d52de1bf9636040bddd74b0f6eb6b70cfb02da415ef2eb8f83a4c85438f",
+      "bytes": 1205748,
+      "pages": 47,
+      "revision": "DocID025344 Rev 5"
+    },
+    {
+      "name": "lis2mdl",
+      "url": "https://www.st.com/resource/en/datasheet/lis2mdl.pdf",
+      "sha256": "53d3461a5c8064ab94bc2da9c76a17b117a241055fb7ab59b4220f40f1666566",
+      "bytes": 1954461,
+      "pages": 36,
+      "revision": "DS12144 - Rev 6"
+    },
+    {
+      "name": "lis3dhh",
+      "url": "https://www.st.com/resource/en/datasheet/lis3dhh.pdf",
+      "sha256": "bb9eec0a675620c7dce1526e24934d68704e4883e9eb6e84bd40747a7d787fc2",
+      "bytes": 652301,
+      "pages": 29,
+      "revision": "DocID030220 Rev 3"
+    },
+    {
+      "name": "lis3dsh",
+      "url": "https://www.st.com/resource/en/datasheet/lis3dsh.pdf",
+      "sha256": "d175331969297dd816760863fb75a1677166fe5799a8d1147d85b764a07dadd9",
+      "bytes": 956301,
+      "pages": 58,
+      "revision": "DocID022405 Rev 3"
+    },
+    {
+      "name": "lm34",
+      "url": "https://www.ti.com/lit/ds/symlink/lm34.pdf",
+      "sha256": "5902e11d939fbbf94882ccc9e5b3da5dc4ab67061a673b467cad988d0261a0b5",
+      "bytes": 950089,
+      "pages": 33,
+      "revision": "SNIS161D"
+    },
+    {
+      "name": "lm45",
+      "url": "https://www.ti.com/lit/ds/symlink/lm45.pdf",
+      "sha256": "8e8a97187b53b7dbcc5a78bebe65db02659fd4f1e012195f186877daead7cb96",
+      "bytes": 653888,
+      "pages": 20,
+      "revision": "SNIS117C"
+    },
+    {
+      "name": "lm50",
+      "url": "https://www.ti.com/lit/ds/symlink/lm50.pdf",
+      "sha256": "0761264c92f30acc68fd3658a9114b173626d08acc6f5085bbb63e5be424b27c",
+      "bytes": 2099613,
+      "pages": 33,
+      "revision": "SNIS118I"
+    },
+    {
+      "name": "lm60",
+      "url": "https://www.ti.com/lit/ds/symlink/lm60.pdf",
+      "sha256": "5156a70272ad089e2cd50c38ae7d184627e66e99b62364068f50f7b0679623b7",
+      "bytes": 1627162,
+      "pages": 29,
+      "revision": "SNIS119G"
+    },
+    {
+      "name": "lm61",
+      "url": "https://www.ti.com/lit/ds/symlink/lm61.pdf",
+      "sha256": "dbb028ff8dfedc9275f49e849aa4bff0190d622eb8e4aae753cbe87e79c982d7",
+      "bytes": 989700,
+      "pages": 25,
+      "revision": "SNIS121J"
+    },
+    {
+      "name": "lm73",
+      "url": "https://www.ti.com/lit/ds/symlink/lm73.pdf",
+      "sha256": "17403337eae090f5931b0552539874fee842749b09eed74eb120e440a4057e64",
+      "bytes": 850822,
+      "pages": 31,
+      "revision": "SNIS141F"
+    },
+    {
+      "name": "lm75a",
+      "url": "https://www.ti.com/lit/ds/symlink/lm75a.pdf",
+      "sha256": "beb63b88795619cae54e45e3dfd68962809c458843505c3305bd36a349929f91",
+      "bytes": 921034,
+      "pages": 31,
+      "revision": "SNOS808P"
+    },
+    {
+      "name": "lmt84",
+      "url": "https://www.ti.com/lit/ds/symlink/lmt84.pdf",
+      "sha256": "ad87d637ced4b846be6b5a3e761463eed0bafa588762153ada45e826aaa7ed6e",
+      "bytes": 1212535,
+      "pages": 30,
+      "revision": "SNIS167E"
+    },
+    {
+      "name": "lmt85",
+      "url": "https://www.ti.com/lit/ds/symlink/lmt85.pdf",
+      "sha256": "c89e9110e95bc47d3db921682bba0d8df9c06d696c0586bbf8a43e041d372f17",
+      "bytes": 1286446,
+      "pages": 30,
+      "revision": "SNIS168E"
+    },
+    {
+      "name": "lmt86",
+      "url": "https://www.ti.com/lit/ds/symlink/lmt86.pdf",
+      "sha256": "541641c8448be4c37b3fccc2c65d3e53afa4c3d9f810b673e764349798c9f795",
+      "bytes": 1649949,
+      "pages": 30,
+      "revision": "SNIS169F"
+    },
+    {
+      "name": "lmt87",
+      "url": "https://www.ti.com/lit/ds/symlink/lmt87.pdf",
+      "sha256": "1565a02c15ee8333c71c443e2a0c4a37b4d7f01cd12351290bef2451db02c7a5",
+      "bytes": 1288513,
+      "pages": 30,
+      "revision": "SNIS170E"
+    },
+    {
+      "name": "lps22df",
+      "url": "https://www.st.com/resource/en/datasheet/lps22df.pdf",
+      "sha256": "f6b89f00da8c368f5268f9d69998a3847356affb6df0d1d32bfa2ab0c2c45b4e",
+      "bytes": 2579694,
+      "pages": 53,
+      "revision": "DS13316 - Rev 3"
+    },
+    {
+      "name": "lps22hb",
+      "url": "https://www.st.com/resource/en/datasheet/lps22hb.pdf",
+      "sha256": "b64e342cb6f703926efaba1a6924fa3312a5b4d8ef811f54bc2d98b72e80d4fa",
+      "bytes": 1527385,
+      "pages": 49,
+      "revision": "DocID027083 Rev 6"
+    },
+    {
+      "name": "lps22hh",
+      "url": "https://www.st.com/resource/en/datasheet/lps22hh.pdf",
+      "sha256": "4f8cf7896f3cd70dd8b9d04b7787fd4ed440f0c80769f88e30111eb9879ccf0a",
+      "bytes": 1273328,
+      "pages": 59,
+      "revision": "DocID030890 Rev 2"
+    },
+    {
+      "name": "lps25hb",
+      "url": "https://www.st.com/resource/en/datasheet/lps25hb.pdf",
+      "sha256": "981945da9df55ec8d782dadbead5cdd56695be7a8081fa0b601e8d938fcd4a38",
+      "bytes": 1575228,
+      "pages": 50,
+      "revision": "DocID027112 Rev 4"
+    },
+    {
+      "name": "lps27hhw",
+      "url": "https://www.st.com/resource/en/datasheet/lps27hhw.pdf",
+      "sha256": "1cb2d6f4a5e8d6d1673c540f563d4e543b775dd52f1a43ca74766196eacc5c00",
+      "bytes": 1371138,
+      "pages": 60,
+      "revision": "DocID032730 Rev 1"
+    },
+    {
+      "name": "lps28dfw",
+      "url": "https://www.st.com/resource/en/datasheet/lps28dfw.pdf",
+      "sha256": "631a019392e090ee06e3afe2f84a0ed11e4c41af217ebbdd665427e13ea2b237",
+      "bytes": 2145320,
+      "pages": 51,
+      "revision": "DS13317 - Rev 1"
+    },
+    {
+      "name": "lps35hw",
+      "url": "https://www.st.com/resource/en/datasheet/lps35hw.pdf",
+      "sha256": "47f633428a98b9bd4bb9068e6e23c9e7f0a3ac3ab817c979f46cd07925b5aa86",
+      "bytes": 2165856,
+      "pages": 48,
+      "revision": "DocID029129 Rev 1"
+    },
+    {
+      "name": "lsm303agr",
+      "url": "https://www.st.com/resource/en/datasheet/lsm303agr.pdf",
+      "sha256": "97635d4cc37b14b46a1ffdbda9349d2e75b9604248d03b77d4e1971171f813da",
+      "bytes": 1721266,
+      "pages": 72,
+      "revision": "DocID027765 Rev 11"
+    },
+    {
+      "name": "lsm303ah",
+      "url": "https://www.st.com/resource/en/datasheet/lsm303ah.pdf",
+      "sha256": "8e82c593f61cd8841bb7969efff24b94190e9d331d44a92096b193cb99a64ba6",
+      "bytes": 1832232,
+      "pages": 82,
+      "revision": "DocID027766 Rev 7"
+    },
+    {
+      "name": "lsm303d",
+      "url": "https://www.st.com/resource/en/datasheet/lsm303d.pdf",
+      "sha256": "0ca590ada1050f68287b88419f3ec45b0998c99220563cc814bb3ae3dd862245",
+      "bytes": 1339393,
+      "pages": 52,
+      "revision": "DocID023312 Rev 2"
+    },
+    {
+      "name": "lsm6ds3tr-c",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf",
+      "sha256": "251737db70e3b6cdc217a5681dd4634a05faffd5288aff6a576078a6464a1b2b",
+      "bytes": 1839683,
+      "pages": 115,
+      "revision": "DocID030071 Rev 3"
+    },
+    {
+      "name": "lsm6dsl",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsl.pdf",
+      "sha256": "3449f752fff3bc69023ef9da18698e8e14379e3a920093d003c867bea195bcf2",
+      "bytes": 1882428,
+      "pages": 114,
+      "revision": "DocID028475 Rev 7"
+    },
+    {
+      "name": "lsm6dsm",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsm.pdf",
+      "sha256": "ee481465b676eacc31575dbc2f1144c1dc3f7d963c10bcadc3ab50abe4eb4f7a",
+      "bytes": 1992420,
+      "pages": 126,
+      "revision": "DocID028165 Rev 7"
+    },
+    {
+      "name": "lsm6dso",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dso.pdf",
+      "sha256": "dd899e37f2fc33b8592fbf6b5b9d9caa94b47c455d4d2edc3512ba2a5c3f0055",
+      "bytes": 7704496,
+      "pages": 162,
+      "revision": "DS12140 - Rev 3"
+    },
+    {
+      "name": "lsm6dso16is",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dso16is.pdf",
+      "sha256": "30f343bb97cd697de5d1c18a3198a239f05e942a65668406f131660559c8673d",
+      "bytes": 3570780,
+      "pages": 107,
+      "revision": "DS13892 - Rev 2"
+    },
+    {
+      "name": "lsm6dso32",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dso32.pdf",
+      "sha256": "d1776336f5060da06c4fa4c3aac293372e20cffa4f9d72fe3296b9a56ed6c0b7",
+      "bytes": 2033305,
+      "pages": 153,
+      "revision": "DocID032891 Rev 1"
+    },
+    {
+      "name": "lsm6dso32x",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dso32x.pdf",
+      "sha256": "45325a3fe164a8aad0144bf109eaa452efd395fd158218c361015d06119f33bc",
+      "bytes": 3080464,
+      "pages": 162,
+      "revision": "DS13607 - Rev 1"
+    },
+    {
+      "name": "lsm6dsox",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsox.pdf",
+      "sha256": "4c7b834fcc5ca298e0a7cbe796d9f7d2def3fc19682ee490d8b6f75ecdeb71f7",
+      "bytes": 8980012,
+      "pages": 182,
+      "revision": "DS12814 - Rev 4"
+    },
+    {
+      "name": "lsm6dsr",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsr.pdf",
+      "sha256": "3b62a8c2f38a4dd5d35cf0f21cf9c47a1832f2edaf2da4d2e5d1d51ade60d0ec",
+      "bytes": 2591933,
+      "pages": 168,
+      "revision": "DS11976 - Rev 2"
+    },
+    {
+      "name": "lsm6dsv",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsv.pdf",
+      "sha256": "b698bb20b0defb6c5c05c32afbdcb451c171d02311a884e6e49b0d97667fafb7",
+      "bytes": 9445754,
+      "pages": 189,
+      "revision": "DS13476 - Rev 5"
+    },
+    {
+      "name": "lsm6dsv16bx",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsv16bx.pdf",
+      "sha256": "ac1d7ddbc8c93dd96c2495e9918bfe46f034576caeab086948f9179514a38297",
+      "bytes": 7372862,
+      "pages": 149,
+      "revision": "DS13771 - Rev 4"
+    },
+    {
+      "name": "lsm6dsv16x",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsv16x.pdf",
+      "sha256": "ec53c0e5952fc0c9587ed32b56d066016c2954bc6e9d18355b13a1c4cda17894",
+      "bytes": 5112242,
+      "pages": 198,
+      "revision": "DS13510 - Rev 4"
+    },
+    {
+      "name": "lsm6dsv32x",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsv32x.pdf",
+      "sha256": "aaa818cafdb8a0ad08d7d71e285540910cd5812fc26f9ca5888c74784c2bb330",
+      "bytes": 9923778,
+      "pages": 198,
+      "revision": "DS13511 - Rev 2"
+    },
+    {
+      "name": "lsm9ds0",
+      "url": "https://www.st.com/resource/en/datasheet/lsm9ds0.pdf",
+      "sha256": "caf1a6fec65a2edb6dd70ea5e7fa9081a9bb1590d5859b28b790e95838ca0431",
+      "bytes": 1700426,
+      "pages": 74,
+      "revision": "DocID024763 Rev 2"
+    },
+    {
+      "name": "lsm9ds1",
+      "url": "https://www.st.com/resource/en/datasheet/lsm9ds1.pdf",
+      "sha256": "3070cb353453bd55c393e2b8071f1aea120b7c694da26a658ef51b925c0550b5",
+      "bytes": 1424565,
+      "pages": 72,
+      "revision": "DocID025715 Rev 3"
+    },
+    {
+      "name": "opt3001",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3001.pdf",
+      "sha256": "f2ab3d4822cbd4e6b702b09c4c22144f6d0583931e0cfc168394de9ab942ca11",
+      "bytes": 904533,
+      "pages": 44,
+      "revision": "SBOS681C"
+    },
+    {
+      "name": "opt3002",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3002.pdf",
+      "sha256": "5d06e97c479871c356e92d661918b9ecfba6b14ad2beae9121891c157c84b42e",
+      "bytes": 848789,
+      "pages": 38,
+      "revision": "SBOS745A"
+    },
+    {
+      "name": "opt3004",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3004.pdf",
+      "sha256": "7b26d6f9f8572e4896de0abed62a943ba4c072c074c0404e8754dce7d83d6a60",
+      "bytes": 2230767,
+      "pages": 50,
+      "revision": "SBOS929A"
+    },
+    {
+      "name": "opt3005",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3005.pdf",
+      "sha256": "984004c4a964814779f7dd04f8f199730f23db065ad1ba1ffa7c61585d7ed34c",
+      "bytes": 1576748,
+      "pages": 39,
+      "revision": "SBOSAC5"
+    },
+    {
+      "name": "opt3006",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3006.pdf",
+      "sha256": "0d61066af8d8a52872e3918e71d63ebc2c926fac5d4d031ab2782daee50c4e7d",
+      "bytes": 660108,
+      "pages": 42,
+      "revision": "SBOS698"
+    },
+    {
+      "name": "opt3007",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3007.pdf",
+      "sha256": "d1fd319d94df5daed357ae1ce1b0dc03a69cb133d8f3a652a29c00f4a9e14a09",
+      "bytes": 677327,
+      "pages": 38,
+      "revision": "SBOS864"
+    },
+    {
+      "name": "opt4001",
+      "url": "https://www.ti.com/lit/ds/symlink/opt4001.pdf",
+      "sha256": "6b28bf2cc20228c567966fc801408e7f77d599ad15b6ef6be62281b38aa549c1",
+      "bytes": 2190586,
+      "pages": 54,
+      "revision": "SBOS993A"
+    },
+    {
+      "name": "opt4048",
+      "url": "https://www.ti.com/lit/ds/symlink/opt4048.pdf",
+      "sha256": "bc4a9ef6b2205e38439dd59514eff819bb75e33126736c2cb93649d09b0d7ea4",
+      "bytes": 1784706,
+      "pages": 44,
+      "revision": "SBOSA84"
+    },
+    {
+      "name": "stts22h",
+      "url": "https://www.st.com/resource/en/datasheet/stts22h.pdf",
+      "sha256": "3f6937595517c4f738021037942e7d19d5b7c84cfe4e9b7e8635fcc06ff783fe",
+      "bytes": 1725256,
+      "pages": 30,
+      "revision": "STTS22H"
+    },
+    {
+      "name": "stts751",
+      "url": "https://www.st.com/resource/en/datasheet/stts751.pdf",
+      "sha256": "e08195e6db93aa0e12dda3df1d461c1ad3176c7bbeb8d05b89393fbd0a7c461d",
+      "bytes": 699908,
+      "pages": 35,
+      "revision": "STTS751"
+    },
+    {
+      "name": "tmag5170",
+      "url": "https://www.ti.com/lit/ds/symlink/tmag5170.pdf",
+      "sha256": "9a888e7e03c7f68c15a6f18b6773a9821fcedb01d236a671fe2e81eeaf3a0d6a",
+      "bytes": 2330842,
+      "pages": 61,
+      "revision": "SBASAF4"
+    },
+    {
+      "name": "tmag5273",
+      "url": "https://www.ti.com/lit/ds/symlink/tmag5273.pdf",
+      "sha256": "3fed45fde64b43affb501a9cc1408e527741df93c576987180c02f3bd5738a88",
+      "bytes": 2425053,
+      "pages": 61,
+      "revision": "SLYS045C"
+    },
+    {
+      "name": "tmp100",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp100.pdf",
+      "sha256": "4099b7e562d9333140b60526c32908a082ef300d019266161e9a2b118e52fc29",
+      "bytes": 661054,
+      "pages": 31,
+      "revision": "SBOS231I"
+    },
+    {
+      "name": "tmp101",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp101.pdf",
+      "sha256": "4099b7e562d9333140b60526c32908a082ef300d019266161e9a2b118e52fc29",
+      "bytes": 661054,
+      "pages": 31,
+      "revision": "SBOS231I"
+    },
+    {
+      "name": "tmp103",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp103.pdf",
+      "sha256": "d6d8e0f618d1f9acadb6c1963661dbc2e6338714c87314ab04be16fc38ff6a24",
+      "bytes": 607626,
+      "pages": 30,
+      "revision": "SBOS545D"
+    },
+    {
+      "name": "tmp104",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp104.pdf",
+      "sha256": "041a6c69f5ed7279f6fa069d13166be60c2d7034824e4e14dda7b1e207648125",
+      "bytes": 487081,
+      "pages": 23,
+      "revision": "SBOS564B"
+    },
+    {
+      "name": "tmp105",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp105.pdf",
+      "sha256": "4c252b0a1ad614ae8b0dfc3ab310c343cda85f1519bdf8489482079ee14e42d2",
+      "bytes": 490867,
+      "pages": 21,
+      "revision": "SLLS648D"
+    },
+    {
+      "name": "tmp106",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp106.pdf",
+      "sha256": "847213c04be2a9723dc97fae5226afdc036e8207d2404c68a4beae7aa33a327f",
+      "bytes": 474676,
+      "pages": 20,
+      "revision": "SLLS672A"
+    },
+    {
+      "name": "tmp107",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp107.pdf",
+      "sha256": "28165582ff4e76825cfa0ed8c760100648ff6afc46e25929d808e8f2c2125660",
+      "bytes": 890430,
+      "pages": 41,
+      "revision": "SBOS716D"
+    },
+    {
+      "name": "tmp1075",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp1075.pdf",
+      "sha256": "266c9a50a80b100884e9cf378b320ea51412023057fed8ba4fbdf85502340cf2",
+      "bytes": 2813742,
+      "pages": 49,
+      "revision": "SBOS854F"
+    },
+    {
+      "name": "tmp108",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp108.pdf",
+      "sha256": "ec086250fc4331e7fc923be62173062bbf0fccedad6894c2741b73cd1c084556",
+      "bytes": 658020,
+      "pages": 27,
+      "revision": "SBOS663A"
+    },
+    {
+      "name": "tmp110",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp110.pdf",
+      "sha256": "bbc062919ec87e8bc3d1fc3e5bfca3c2d7b2f442d29a4f4c961204720ea136e7",
+      "bytes": 1631375,
+      "pages": 44,
+      "revision": "SNIS233A"
+    },
+    {
+      "name": "tmp114",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp114.pdf",
+      "sha256": "827957c1ccd6dc7cdacf66d9ad74de5922b4bc849dcc845e1beb0a6a5b590e7c",
+      "bytes": 1448997,
+      "pages": 50,
+      "revision": "SNIS214E"
+    },
+    {
+      "name": "tmp116",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp116.pdf",
+      "sha256": "93cd03c207c2871918ef9341a4baf189e2c0ea9a795673a7011e367c4e75c1c0",
+      "bytes": 776389,
+      "pages": 47,
+      "revision": "SBOS740A"
+    },
+    {
+      "name": "tmp118",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp118.pdf",
+      "sha256": "fc651c8f5e787b68b00632b9a9f82cc4d9f99c5384d00719859688f67029346f",
+      "bytes": 1536753,
+      "pages": 43,
+      "revision": "SNIS237A"
+    },
+    {
+      "name": "tmp119",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp119.pdf",
+      "sha256": "7eabaeda3a51298768e188bfefafbdb8e8ae1f20200019c5fbb654d977adaa30",
+      "bytes": 1203997,
+      "pages": 48,
+      "revision": "SNIS236"
+    },
+    {
+      "name": "tmp121",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp121.pdf",
+      "sha256": "b96ee6b8519bd3154a6fed9617c975ef848c1aa8a07a57306afdda075fc0870c",
+      "bytes": 675857,
+      "pages": 19,
+      "revision": "SBOS273C"
+    },
+    {
+      "name": "tmp122",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp122.pdf",
+      "sha256": "1b44d3ad5232161de534a52eb8613cd0de0d302e866139d7feb3c8fdbd313b2f",
+      "bytes": 666601,
+      "pages": 21,
+      "revision": "SBOS272B"
+    },
+    {
+      "name": "tmp123",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp123.pdf",
+      "sha256": "b96ee6b8519bd3154a6fed9617c975ef848c1aa8a07a57306afdda075fc0870c",
+      "bytes": 675857,
+      "pages": 19,
+      "revision": "SBOS273C"
+    },
+    {
+      "name": "tmp124",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp124.pdf",
+      "sha256": "1b44d3ad5232161de534a52eb8613cd0de0d302e866139d7feb3c8fdbd313b2f",
+      "bytes": 666601,
+      "pages": 21,
+      "revision": "SBOS272B"
+    },
+    {
+      "name": "tmp125",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp125.pdf",
+      "sha256": "aa8cda8daed5042cd75a3741bb4abb5886983b0c94d4d1543859df88750820c4",
+      "bytes": 388273,
+      "pages": 14,
+      "revision": "SBOS323A"
+    },
+    {
+      "name": "tmp126",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp126.pdf",
+      "sha256": "6d9bab59b2814422d7bc1dff8fbd203df26e92ee40075b613c1f1fbb59eddfef",
+      "bytes": 1906138,
+      "pages": 49,
+      "revision": "SNIS209C"
+    },
+    {
+      "name": "tmp144",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp144.pdf",
+      "sha256": "acca941ef9b7b0871d5b375f95c752afd431791512edb4591c5250989d584714",
+      "bytes": 1532450,
+      "pages": 41,
+      "revision": "SBOS891C"
+    },
+    {
+      "name": "tmp1826",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp1826.pdf",
+      "sha256": "2738904e9c8abe9135e78a489509a5e0df89c051aaca741059bc4f81a7cd9647",
+      "bytes": 2867613,
+      "pages": 69,
+      "revision": "SBOSA45D"
+    },
+    {
+      "name": "tmp235",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp235.pdf",
+      "sha256": "a15e72bf95780b436de1e407af8029e1962896878963f2238067641749c546b3",
+      "bytes": 849700,
+      "pages": 25,
+      "revision": "SBOS857E"
+    },
+    {
+      "name": "tmp236",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp236.pdf",
+      "sha256": "a15e72bf95780b436de1e407af8029e1962896878963f2238067641749c546b3",
+      "bytes": 849700,
+      "pages": 25,
+      "revision": "SBOS857E"
+    },
+    {
+      "name": "vl53l3cx",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l3cx.pdf",
+      "sha256": "3ce1415d511e838685dd03a84b8b67ee7374e905da222ba8514d72a9e1ace724",
+      "bytes": 1728746,
+      "pages": 35,
+      "revision": "DS13204 - Rev 9"
+    },
+    {
+      "name": "vl53l4cd",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l4cd.pdf",
+      "sha256": "0beb3bb5e958f6e463d919c3ac9226e5f3bdfa15fd09b009208a24d791e7707c",
+      "bytes": 2038199,
+      "pages": 37,
+      "revision": "DS13812 - Rev 8"
+    },
+    {
+      "name": "vl53l4cx",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l4cx.pdf",
+      "sha256": "fd32fb71601351a85ffc3632da0acae27518ce2c25d9df4a65f1f2cda6bab377",
+      "bytes": 1988760,
+      "pages": 38,
+      "revision": "DS13805 - Rev 6"
+    },
+    {
+      "name": "vl53l5cx",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l5cx.pdf",
+      "sha256": "34999dcf5ea4483065c4245e6908e6529b46e31f26f1f40e124d3a453d65d6af",
+      "bytes": 2582429,
+      "pages": 40,
+      "revision": "DS13754 - Rev 13"
+    },
+    {
+      "name": "vl53l7cx",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l7cx.pdf",
+      "sha256": "56a5e22b23c4a4e01de43cd138b01ba88a717be0a8d898e7326d7a6ad2392f60",
+      "bytes": 2952066,
+      "pages": 41,
+      "revision": "DS13865 - Rev 8"
+    },
+    {
+      "name": "vl53l8cx",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l8cx.pdf",
+      "sha256": "a24f8bbc282bf04e28aa285b80fc165517f70704457a1b9546e8a18adfb3f844",
+      "bytes": 3587088,
+      "pages": 45,
+      "revision": "DS14161 - Rev 12"
+    },
+    {
+      "name": "vl6180x",
+      "url": "https://www.st.com/resource/en/datasheet/vl6180x.pdf",
+      "sha256": "87e1b09668160d714276cdb093a41e7bf18120c81c25888a309e8fcfdc6a6724",
+      "bytes": 1596457,
+      "pages": 87,
+      "revision": "DocID026171 Rev 7"
+    }
+  ],
+  "profiles": [
+    {
+      "code": "LM35",
+      "document": "lm35",
+      "pages": {
+        "SCOPE": [
+          4
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          4
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      }
+    },
+    {
+      "code": "LM35D",
+      "document": "lm35",
+      "pages": {
+        "SCOPE": [
+          4
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          4
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      }
+    },
+    {
+      "code": "TMP35",
+      "document": "tmp36",
+      "pages": {
+        "SCOPE": [
+          3,
+          19
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1
+        ],
+        "PINOUT": [
+          1,
+          10
+        ]
+      }
+    },
+    {
+      "code": "TMP36",
+      "document": "tmp36",
+      "pages": {
+        "SCOPE": [
+          3,
+          19
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1
+        ],
+        "PINOUT": [
+          1,
+          10
+        ]
+      }
+    },
+    {
+      "code": "TMP102",
+      "document": "tmp102",
+      "pages": {
+        "SCOPE": [
+          3
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          4
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      }
+    },
+    {
+      "code": "TMP112",
+      "document": "tmp112",
+      "pages": {
+        "SCOPE": [
+          4
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          5
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      }
+    },
+    {
+      "code": "TMP117",
+      "document": "tmp117",
+      "pages": {
+        "SCOPE": [
+          6
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          5
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      }
+    },
+    {
+      "code": "SHT30",
+      "document": "sht3x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          2,
+          6
+        ],
+        "ACCURACY": [
+          2
+        ],
+        "PACKAGE": [
+          1
+        ],
+        "PINOUT": [
+          8
+        ]
+      }
+    },
+    {
+      "code": "SHT31",
+      "document": "sht3x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          2,
+          6
+        ],
+        "ACCURACY": [
+          2
+        ],
+        "PACKAGE": [
+          1
+        ],
+        "PINOUT": [
+          8
+        ]
+      }
+    },
+    {
+      "code": "SHT35",
+      "document": "sht3x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          2,
+          6
+        ],
+        "ACCURACY": [
+          2
+        ],
+        "PACKAGE": [
+          1
+        ],
+        "PINOUT": [
+          8
+        ]
+      }
+    },
+    {
+      "code": "SHT40",
+      "document": "sht4x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          9
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          4,
+          6,
+          8
+        ],
+        "ACCURACY": [
+          5,
+          6
+        ],
+        "PACKAGE": [
+          15
+        ],
+        "PINOUT": [
+          16
+        ]
+      }
+    },
+    {
+      "code": "SHT41",
+      "document": "sht4x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          9
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          4,
+          6,
+          8
+        ],
+        "ACCURACY": [
+          5,
+          6
+        ],
+        "PACKAGE": [
+          15
+        ],
+        "PINOUT": [
+          16
+        ]
+      }
+    },
+    {
+      "code": "SHT45",
+      "document": "sht4x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          9
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          4,
+          6,
+          8
+        ],
+        "ACCURACY": [
+          5,
+          6
+        ],
+        "PACKAGE": [
+          15
+        ],
+        "PINOUT": [
+          16
+        ]
+      }
+    },
+    {
+      "code": "BMP280",
+      "document": "bmp280",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          3
+        ],
+        "SUPPLY": [
+          7
+        ],
+        "INTERFACE": [
+          3
+        ],
+        "RANGE": [
+          7
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          3
+        ],
+        "PINOUT": [
+          34
+        ]
+      }
+    },
+    {
+      "code": "BME280",
+      "document": "bme280",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          2
+        ],
+        "SUPPLY": [
+          8
+        ],
+        "INTERFACE": [
+          2
+        ],
+        "RANGE": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          2
+        ],
+        "PINOUT": [
+          38
+        ]
+      }
+    },
+    {
+      "code": "BMP390",
+      "document": "bmp390",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          3
+        ],
+        "SUPPLY": [
+          7
+        ],
+        "INTERFACE": [
+          3
+        ],
+        "RANGE": [
+          7
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          3
+        ],
+        "PINOUT": [
+          46
+        ]
+      }
+    },
+    {
+      "code": "BME680",
+      "document": "bme680",
+      "pages": {
+        "SCOPE": [
+          2,
+          22
+        ],
+        "MEASUREMENT": [
+          2,
+          22
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          3
+        ],
+        "RANGE": [
+          3
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          2
+        ],
+        "PINOUT": [
+          44
+        ]
+      }
+    },
+    {
+      "code": "BME688",
+      "document": "bme688",
+      "pages": {
+        "SCOPE": [
+          2,
+          28
+        ],
+        "MEASUREMENT": [
+          2,
+          28
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          3
+        ],
+        "RANGE": [
+          3
+        ],
+        "ACCURACY": [
+          12
+        ],
+        "PACKAGE": [
+          2
+        ],
+        "PINOUT": [
+          51
+        ]
+      }
+    },
+    {
+      "code": "LIS3DH",
+      "document": "lis3dh",
+      "pages": {
+        "SCOPE": [
+          1,
+          11
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          12
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          10
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1
+        ],
+        "PINOUT": [
+          9
+        ]
+      }
+    },
+    {
+      "code": "LIS2DH12",
+      "document": "lis2dh12",
+      "pages": {
+        "SCOPE": [
+          1,
+          11
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          12
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          10
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1
+        ],
+        "PINOUT": [
+          9
+        ]
+      }
+    },
+    {
+      "code": "VL53L0X",
+      "document": "vl53l0x",
+      "pages": {
+        "SCOPE": [
+          3
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          19
+        ],
+        "INTERFACE": [
+          3
+        ],
+        "RANGE": [
+          1,
+          1
+        ],
+        "ACCURACY": [
+          21
+        ],
+        "PACKAGE": [
+          3
+        ],
+        "PINOUT": [
+          5
+        ]
+      }
+    },
+    {
+      "code": "VL53L1X",
+      "document": "vl53l1x",
+      "pages": {
+        "SCOPE": [
+          4
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          18
+        ],
+        "INTERFACE": [
+          4
+        ],
+        "RANGE": [
+          9,
+          10
+        ],
+        "ACCURACY": [
+          19
+        ],
+        "PACKAGE": [
+          4
+        ],
+        "PINOUT": [
+          6
+        ]
+      }
+    },
+    {
+      "code": "ADT7301",
+      "document": "adt7301",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADT7310",
+      "document": "adt7310",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADT7320",
+      "document": "adt7320",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADT7410",
+      "document": "adt7410",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADT7420",
+      "document": "adt7420",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADT7422",
+      "document": "adt7422",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL326",
+      "document": "adxl326",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          1
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          5
+        ],
+        "PINOUT": [
+          5
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL327",
+      "document": "adxl327",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          1
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          5
+        ],
+        "PINOUT": [
+          5
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL335",
+      "document": "adxl335",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          1
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          5
+        ],
+        "PINOUT": [
+          5
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL345",
+      "document": "adxl345",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL346",
+      "document": "adxl346",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL350",
+      "document": "adxl350",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          5
+        ],
+        "PINOUT": [
+          5
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL362",
+      "document": "adxl362",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL372",
+      "document": "adxl372",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          9
+        ],
+        "PINOUT": [
+          9
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL375",
+      "document": "adxl375",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ADXL377",
+      "document": "adxl377",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          1
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          5
+        ],
+        "PINOUT": [
+          5
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "DRV5023",
+      "document": "drv5023",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "DRV5032",
+      "document": "drv5032",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "DRV5033",
+      "document": "drv5033",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "DRV5053",
+      "document": "drv5053",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "DRV5055",
+      "document": "drv5055",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "DRV5056",
+      "document": "drv5056",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "DRV5057",
+      "document": "drv5057",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "H3LIS331DL",
+      "document": "h3lis331dl",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC1000",
+      "document": "hdc1000",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          6
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC1008",
+      "document": "hdc1008",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          5
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC1010",
+      "document": "hdc1010",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          5
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC1050",
+      "document": "hdc1050",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          5
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC1080",
+      "document": "hdc1080",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          5
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC2010",
+      "document": "hdc2010",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          5
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC2021",
+      "document": "hdc2021",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          5
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC2022",
+      "document": "hdc2022",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          5
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC2080",
+      "document": "hdc2080",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          6
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC3020",
+      "document": "hdc3020",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          6
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC3021",
+      "document": "hdc3021",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          6
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HDC3022",
+      "document": "hdc3022",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1,
+          6
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "HTS221",
+      "document": "hts221",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          8
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "IIS2DH",
+      "document": "iis2dh",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          12
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "IIS2DLPC",
+      "document": "iis2dlpc",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          13
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          11
+        ],
+        "PACKAGE": [
+          1,
+          9
+        ],
+        "PINOUT": [
+          9
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "IIS2ICLX",
+      "document": "iis2iclx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          10
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "IIS2MDC",
+      "document": "iis2mdc",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          10
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "IIS3DWB",
+      "document": "iis3dwb",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ILPS22QS",
+      "document": "ilps22qs",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          7
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ILPS28QSW",
+      "document": "ilps28qsw",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          7
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ISM330BX",
+      "document": "ism330bx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          15
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          12
+        ],
+        "PACKAGE": [
+          1,
+          11
+        ],
+        "PINOUT": [
+          11
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ISM330DHCX",
+      "document": "ism330dhcx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          13
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1,
+          9
+        ],
+        "PINOUT": [
+          9
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ISM330DLC",
+      "document": "ism330dlc",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          11
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "ISM330IS",
+      "document": "ism330is",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          11
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "L3GD20",
+      "document": "l3gd20",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          10
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS2DE12",
+      "document": "lis2de12",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          11
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS2DS12",
+      "document": "lis2ds12",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          13
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          12
+        ],
+        "PACKAGE": [
+          1,
+          10
+        ],
+        "PINOUT": [
+          10
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS2DU12",
+      "document": "lis2du12",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS2DUX12",
+      "document": "lis2dux12",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          7
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS2DUXS12",
+      "document": "lis2duxs12",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          7
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS2DW12",
+      "document": "lis2dw12",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          7
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS2HH12",
+      "document": "lis2hh12",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          11
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS2MDL",
+      "document": "lis2mdl",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS3DHH",
+      "document": "lis3dhh",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          8
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          7
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LIS3DSH",
+      "document": "lis3dsh",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          13
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          12
+        ],
+        "PACKAGE": [
+          1,
+          10
+        ],
+        "PINOUT": [
+          10
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LM34",
+      "document": "lm34",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          1
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          7
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LM45",
+      "document": "lm45",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          1
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1
+        ],
+        "PINOUT": [
+          1
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LM50",
+      "document": "lm50",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LM60",
+      "document": "lm60",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LM61",
+      "document": "lm61",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          1
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LM73",
+      "document": "lm73",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LM75A",
+      "document": "lm75a",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LMT84",
+      "document": "lmt84",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LMT85",
+      "document": "lmt85",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LMT86",
+      "document": "lmt86",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LMT87",
+      "document": "lmt87",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LPS22DF",
+      "document": "lps22df",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LPS22HB",
+      "document": "lps22hb",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          11
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LPS22HH",
+      "document": "lps22hh",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          10
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LPS25HB",
+      "document": "lps25hb",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          10
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LPS27HHW",
+      "document": "lps27hhw",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          10
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LPS28DFW",
+      "document": "lps28dfw",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LPS35HW",
+      "document": "lps35hw",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          9
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          1,
+          6
+        ],
+        "PINOUT": [
+          6
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM303AGR",
+      "document": "lsm303agr",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          15
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          13
+        ],
+        "PACKAGE": [
+          1,
+          11
+        ],
+        "PINOUT": [
+          11
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM303AH",
+      "document": "lsm303ah",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          15
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          13
+        ],
+        "PACKAGE": [
+          1,
+          11
+        ],
+        "PINOUT": [
+          11
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM303D",
+      "document": "lsm303d",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          12
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DS3TR-C",
+      "document": "lsm6ds3tr-c",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          24
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          21
+        ],
+        "PACKAGE": [
+          1,
+          20
+        ],
+        "PINOUT": [
+          20
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSL",
+      "document": "lsm6dsl",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          24
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          21
+        ],
+        "PACKAGE": [
+          1,
+          20
+        ],
+        "PINOUT": [
+          20
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSM",
+      "document": "lsm6dsm",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          26
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          23
+        ],
+        "PACKAGE": [
+          1,
+          22
+        ],
+        "PINOUT": [
+          22
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSO",
+      "document": "lsm6dso",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          11
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSO16IS",
+      "document": "lsm6dso16is",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          10
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSO32",
+      "document": "lsm6dso32",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          28
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          25
+        ],
+        "PACKAGE": [
+          1,
+          24
+        ],
+        "PINOUT": [
+          24
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSO32X",
+      "document": "lsm6dso32x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          13
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1,
+          9
+        ],
+        "PINOUT": [
+          9
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSOX",
+      "document": "lsm6dsox",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          12
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          10
+        ],
+        "PACKAGE": [
+          1,
+          9
+        ],
+        "PINOUT": [
+          9
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSR",
+      "document": "lsm6dsr",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          11
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          9
+        ],
+        "PACKAGE": [
+          1,
+          8
+        ],
+        "PINOUT": [
+          8
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSV",
+      "document": "lsm6dsv",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          13
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          11
+        ],
+        "PACKAGE": [
+          1,
+          10
+        ],
+        "PINOUT": [
+          10
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSV16BX",
+      "document": "lsm6dsv16bx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          14
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          12
+        ],
+        "PACKAGE": [
+          1,
+          11
+        ],
+        "PINOUT": [
+          11
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSV16X",
+      "document": "lsm6dsv16x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          14
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          12
+        ],
+        "PACKAGE": [
+          1,
+          11
+        ],
+        "PINOUT": [
+          11
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM6DSV32X",
+      "document": "lsm6dsv32x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          14
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          12
+        ],
+        "PACKAGE": [
+          1,
+          11
+        ],
+        "PINOUT": [
+          11
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM9DS0",
+      "document": "lsm9ds0",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          16
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          13
+        ],
+        "PACKAGE": [
+          1,
+          11
+        ],
+        "PINOUT": [
+          11
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "LSM9DS1",
+      "document": "lsm9ds1",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          13
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          12
+        ],
+        "PACKAGE": [
+          1,
+          10
+        ],
+        "PINOUT": [
+          10
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "OPT3001",
+      "document": "opt3001",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "OPT3002",
+      "document": "opt3002",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "OPT3004",
+      "document": "opt3004",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "OPT3005",
+      "document": "opt3005",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "OPT3006",
+      "document": "opt3006",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "OPT3007",
+      "document": "opt3007",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "OPT4001",
+      "document": "opt4001",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "OPT4048",
+      "document": "opt4048",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "STTS22H",
+      "document": "stts22h",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "STTS751",
+      "document": "stts751",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          25
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          26
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMAG5170",
+      "document": "tmag5170",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          1
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMAG5273",
+      "document": "tmag5273",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          8
+        ],
+        "PACKAGE": [
+          2,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP100",
+      "document": "tmp100",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP101",
+      "document": "tmp101",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP103",
+      "document": "tmp103",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP104",
+      "document": "tmp104",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP105",
+      "document": "tmp105",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          3
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          2
+        ],
+        "PINOUT": [
+          2
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP106",
+      "document": "tmp106",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          3
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          2
+        ],
+        "PINOUT": [
+          2
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP107",
+      "document": "tmp107",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP1075",
+      "document": "tmp1075",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP108",
+      "document": "tmp108",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          4
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP110",
+      "document": "tmp110",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP114",
+      "document": "tmp114",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP116",
+      "document": "tmp116",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP118",
+      "document": "tmp118",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          7
+        ],
+        "PACKAGE": [
+          1,
+          5
+        ],
+        "PINOUT": [
+          5
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP119",
+      "document": "tmp119",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          6
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          7
+        ],
+        "PACKAGE": [
+          1,
+          5
+        ],
+        "PINOUT": [
+          5
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP121",
+      "document": "tmp121",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          2
+        ],
+        "PINOUT": [
+          2
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP122",
+      "document": "tmp122",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          2
+        ],
+        "PINOUT": [
+          2
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP123",
+      "document": "tmp123",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          2
+        ],
+        "PINOUT": [
+          2
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP124",
+      "document": "tmp124",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          2
+        ],
+        "PINOUT": [
+          2
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP125",
+      "document": "tmp125",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          3
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          3
+        ],
+        "PACKAGE": [
+          1,
+          2
+        ],
+        "PINOUT": [
+          2
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP126",
+      "document": "tmp126",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP144",
+      "document": "tmp144",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          5
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          6
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP1826",
+      "document": "tmp1826",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP235",
+      "document": "tmp235",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "TMP236",
+      "document": "tmp236",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          4
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          5
+        ],
+        "PACKAGE": [
+          1,
+          3
+        ],
+        "PINOUT": [
+          3
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "VL53L3CX",
+      "document": "vl53l3cx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          18
+        ],
+        "INTERFACE": [
+          5
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          21
+        ],
+        "PACKAGE": [
+          1,
+          5
+        ],
+        "PINOUT": [
+          5
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "VL53L4CD",
+      "document": "vl53l4cd",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          17
+        ],
+        "INTERFACE": [
+          4
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          20
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "VL53L4CX",
+      "document": "vl53l4cx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          18
+        ],
+        "INTERFACE": [
+          4
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          21
+        ],
+        "PACKAGE": [
+          1,
+          4
+        ],
+        "PINOUT": [
+          4
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "VL53L5CX",
+      "document": "vl53l5cx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          17
+        ],
+        "INTERFACE": [
+          7
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          21
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "VL53L7CX",
+      "document": "vl53l7cx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          17
+        ],
+        "INTERFACE": [
+          7
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          21
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "VL53L8CX",
+      "document": "vl53l8cx",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          20
+        ],
+        "INTERFACE": [
+          7
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          24
+        ],
+        "PACKAGE": [
+          1,
+          7
+        ],
+        "PINOUT": [
+          7
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    },
+    {
+      "code": "VL6180X",
+      "document": "vl6180x",
+      "pages": {
+        "SCOPE": [
+          1
+        ],
+        "MEASUREMENT": [
+          1
+        ],
+        "SUPPLY": [
+          46
+        ],
+        "INTERFACE": [
+          1
+        ],
+        "RANGE": [
+          1
+        ],
+        "ACCURACY": [
+          40
+        ],
+        "PACKAGE": [
+          1,
+          10
+        ],
+        "PINOUT": [
+          10
+        ]
+      },
+      "data_record": "sensor-catalog/expanded-1.0.10.json"
+    }
+  ],
+  "replacement_proof": {
+    "from": "TMP102",
+    "to": "TMP112A DRL/SOT563",
+    "url": "https://www.ti.com/product/TMP102",
+    "section": "Similar products / drop-in replacement",
+    "pdf_support": "TMP102 Rev. I, p.8"
+  },
+  "policy": "Curated IC profiles; no suffix inference, no price/stock lookup, no PCB or software guarantee.",
+  "catalogue_version": "1.0.10",
+  "profile_count": 160
+}

@@ -1,0 +1,13 @@
+Datasheet Analyzer 1.0.2 — kontrol özeti
+
+Paket: com.example.datasheetanalyzer
+versionCode: 10
+APK SHA-256: 5313cf164ebbab3906a5870aea526a0453052f70d8e7aedc0339572f91cdb3fd
+İmza SHA-256: fbc27d42c249f0e429c684642a396db70abfe4b003753955158c161e1bc2cb3b
+167 test geçti; 0 başarısız/hatalı/atlanan test. Lint: 0 hata, 6 uyarı.
+Cihaz test APK’sı derlendi. Fiziksel telefon testi bu güncellemede yapılmadı.
+
+Önerilen gerilim ve kısmi/kesilmiş belge regresyonları; yanlış parça/üretici güvenlik kontrolleri;
+Türkçe/Unicode PDF raporu, çok sayfalı metin, doğrulanmamış alıntı, PNG kaynak pikselleri ve
+dosya kaydetme/temizleme işlemleri test edildi. Gerçek rapor çıktıları render edilip incelendi.
+Kaynak paketi APK içermez; uygulama APK’sı ayrı sağlanır.

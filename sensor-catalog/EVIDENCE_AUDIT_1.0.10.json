@@ -1,0 +1,1110 @@
+{
+  "count": 138,
+  "issues": [],
+  "profiles": [
+    {
+      "code": "ADT7301",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7301.pdf",
+      "sha256": "2d1cfa264960851c28bab9bd239d00f6dac3dbb1a1f4bd865f10a37ef27f66ac",
+      "page_count": 16,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADT7310",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7310.pdf",
+      "sha256": "fb0898cef1d109e453511092138981e40b11e4a501ae507684e38cccef15cbc7",
+      "page_count": 24,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADT7320",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7320.pdf",
+      "sha256": "3709e03ddba8d5b4bec87bbe7d43dc806cbfff69d77e05f0ae5cba7234c5418b",
+      "page_count": 24,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADT7410",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7410.pdf",
+      "sha256": "851fccff72ea7020979a3ec38950f7f5b31901686699613a14e001b758762af7",
+      "page_count": 24,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADT7420",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7420.pdf",
+      "sha256": "e506f327da4d2aa5862687eed954a9c961fcf39938f54febdd759dedcc25e890",
+      "page_count": 24,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADT7422",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7422.pdf",
+      "sha256": "6a5ed6cbcabf6b52f5f83001414fe2d0896a88c95756a40412ee5ba3fbde3220",
+      "page_count": 23,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL326",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf",
+      "sha256": "21f3c1e020f298018567c034bc4547f9d5107db86037bd56ffe1f09c669a379e",
+      "page_count": 16,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL327",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL327.pdf",
+      "sha256": "9727e9248370be92ee7b98da8af497285f147d4d7692bfffa31a76648ae361ee",
+      "page_count": 16,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL335",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf",
+      "sha256": "9b3e4dea71d6bdb21bea7221c9b7132eef511c002420160504bffb8025c53e79",
+      "page_count": 16,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL345",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf",
+      "sha256": "87ae2212498c35a6759d8732adee0ec9b9d8d60fa95688bc5904f1f07ceb8ff6",
+      "page_count": 36,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL346",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL346.pdf",
+      "sha256": "724d2702f279a9be18d5af89cf5fe7fe9021c9073baca0be9074962b44ab2807",
+      "page_count": 40,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL350",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL350.pdf",
+      "sha256": "5092d0ddf0eeab17823a238e04ace466e945fd021ad668a2849b8b9b2298d1e3",
+      "page_count": 36,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL362",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf",
+      "sha256": "895468ab604df0a02c9f9c9cee31531eac764980f8ebc1812fbe61d9d6b1172b",
+      "page_count": 47,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL372",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL372.pdf",
+      "sha256": "7eebd756a3ef1f06baef0b05bf0515dffd6e87f20382eaa78236cb1c7ee8dcfb",
+      "page_count": 61,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL375",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL375.pdf",
+      "sha256": "8250d9a22b8a56d7070810c89a3ed40f4abcd326a89633719359fe0be7a4ef81",
+      "page_count": 32,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ADXL377",
+      "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf",
+      "sha256": "3a99201c4a6775b57e3277e2200e507e52720174540f00f0b6265b904be87ab0",
+      "page_count": 12,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "DRV5023",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5023.pdf",
+      "sha256": "848cbd0c346589d8dc0466e1537d61d274913762eece724907c558f370f3a4de",
+      "page_count": 32,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "DRV5032",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5032.pdf",
+      "sha256": "0bdec04d64591bbb62c74f2e5d4dc10f21de5f76b0b0f12fca5c6a277037ceee",
+      "page_count": 44,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "DRV5033",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5033.pdf",
+      "sha256": "397f1a51908fee1642a3d52e95977d3d05d35fd75fac769554eece78b4d4aabc",
+      "page_count": 32,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "DRV5053",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5053.pdf",
+      "sha256": "80aebab55793b9b7274af95c6c2ef0c82cc69fa81e0d9567c446a067c3cb226c",
+      "page_count": 28,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "DRV5055",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5055.pdf",
+      "sha256": "d04305a4ae7a603f95286c957160945ad5c7156b3d4e2137d47d74f614dd3194",
+      "page_count": 35,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "DRV5056",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5056.pdf",
+      "sha256": "314b0b34c7cd83c714859fd0caf0978f6a717eddf89912eb449f23019a1f7e2b",
+      "page_count": 37,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "DRV5057",
+      "url": "https://www.ti.com/lit/ds/symlink/drv5057.pdf",
+      "sha256": "1aa569874ffbdeaa98374f14cb02e5e885d1a0c070532b07b66adc0da86b4140",
+      "page_count": 36,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "H3LIS331DL",
+      "url": "https://www.st.com/resource/en/datasheet/h3lis331dl.pdf",
+      "sha256": "89554047021f1ba6c32833be204b6cc35712049cedb6a69f2559cf1d9bd868f7",
+      "page_count": 33,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC1000",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1000.pdf",
+      "sha256": "8e5476b51521c1015431ae90c1bc7cbdc82afdf8e1cbd98c7f2b2bc06d2973dd",
+      "page_count": 30,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC1008",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1008.pdf",
+      "sha256": "cc84582b06f50b1c81091e299e0f382412ec40b6ce5e6c0a85d47d03e9aa31a7",
+      "page_count": 29,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC1010",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1010.pdf",
+      "sha256": "0f7b989441c34f57dac29fa9deab6a58fab00c5a234a516f4ce92fe2a37f20dd",
+      "page_count": 29,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC1050",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1050.pdf",
+      "sha256": "799debae6582d031e3d4be0a45395f7bb9b663d10b05645a827b93c95dddbdfe",
+      "page_count": 28,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC1080",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc1080.pdf",
+      "sha256": "ff9fed45056ad05762d46f11905f1f14df425b8a8ef2d0d9cbb813c5711735e4",
+      "page_count": 29,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC2010",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc2010.pdf",
+      "sha256": "764733c7ce5bfce17adde093ed27da34795ee03c553975af10000c0d412394c6",
+      "page_count": 41,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC2021",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc2021.pdf",
+      "sha256": "bbe3256eb811eb000f871eb3740449bd9ad2adf60db91d859ac433131d6d0a27",
+      "page_count": 48,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC2022",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc2022.pdf",
+      "sha256": "71ad6b79aa6769e9c8b3fa850092ba5fa5b40880a5f33f6a59810c4d5f78819c",
+      "page_count": 48,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC2080",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc2080.pdf",
+      "sha256": "e47d6255a65708424f194179a15321af3aca201a5840a1c9650850f6b084af10",
+      "page_count": 43,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC3020",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc3020.pdf",
+      "sha256": "733d31c0cfce545c4caa1e2a3b03ed3ca7191dbc165f171a0e2650b679328cc7",
+      "page_count": 54,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC3021",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc3021.pdf",
+      "sha256": "733d31c0cfce545c4caa1e2a3b03ed3ca7191dbc165f171a0e2650b679328cc7",
+      "page_count": 54,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HDC3022",
+      "url": "https://www.ti.com/lit/ds/symlink/hdc3022.pdf",
+      "sha256": "733d31c0cfce545c4caa1e2a3b03ed3ca7191dbc165f171a0e2650b679328cc7",
+      "page_count": 54,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "HTS221",
+      "url": "https://www.st.com/resource/en/datasheet/hts221.pdf",
+      "sha256": "5fdb3e71a30d4c28c956380ed81c673734aaf630f94d66a9de1b3dd38585d7af",
+      "page_count": 33,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "IIS2DH",
+      "url": "https://www.st.com/resource/en/datasheet/iis2dh.pdf",
+      "sha256": "5ab95d44138897babc8884c3c31458b436523b036dd2a6d0306874450227ab7c",
+      "page_count": 49,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "IIS2DLPC",
+      "url": "https://www.st.com/resource/en/datasheet/iis2dlpc.pdf",
+      "sha256": "6468d04d7b6a9dbe8e683dba3b6b8e13c1732f411027de38c11fa4fc2722767b",
+      "page_count": 69,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "IIS2ICLX",
+      "url": "https://www.st.com/resource/en/datasheet/iis2iclx.pdf",
+      "sha256": "7202af8a578aa2ebc97484d89792eaed5aaa0c8cc3405374185b2790eb26e9c2",
+      "page_count": 119,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "IIS2MDC",
+      "url": "https://www.st.com/resource/en/datasheet/iis2mdc.pdf",
+      "sha256": "0e09a086ae01b5b069c99a77326952c8b1f0c6b97fd476fef3cbc37ceba09c4f",
+      "page_count": 40,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "IIS3DWB",
+      "url": "https://www.st.com/resource/en/datasheet/iis3dwb.pdf",
+      "sha256": "c73d5e0c9b9ec498955e4d409d2f1009e7a7949f36194001e1bd0fadc12f44df",
+      "page_count": 59,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ILPS22QS",
+      "url": "https://www.st.com/resource/en/datasheet/ilps22qs.pdf",
+      "sha256": "f463265fffcff9551529f877d85ca05a5b21f6d0ed6e829880c386a54cc61a8b",
+      "page_count": 57,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ILPS28QSW",
+      "url": "https://www.st.com/resource/en/datasheet/ilps28qsw.pdf",
+      "sha256": "60635504e6849fd990c19c46d6ac60f5702944b358db27ebad3cb2feb67aae88",
+      "page_count": 52,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ISM330BX",
+      "url": "https://www.st.com/resource/en/datasheet/ism330bx.pdf",
+      "sha256": "650d66a58655518b8927dbba7c083f58da317f8ae9b721f439a0c1f129b19da2",
+      "page_count": 150,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ISM330DHCX",
+      "url": "https://www.st.com/resource/en/datasheet/ism330dhcx.pdf",
+      "sha256": "4ebd304610da62f31775389ee3ce1a98f596b1331114959e9e052b3f602de8fa",
+      "page_count": 167,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ISM330DLC",
+      "url": "https://www.st.com/resource/en/datasheet/ism330dlc.pdf",
+      "sha256": "72efc26196063c2427691fd34c07d8282200e94a9ff68846a78d8535fc314052",
+      "page_count": 113,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "ISM330IS",
+      "url": "https://www.st.com/resource/en/datasheet/ism330is.pdf",
+      "sha256": "804cb7333590d0178f2d9bae0a65709ac2eadff4e2991a7d652ba6168d8ea71c",
+      "page_count": 105,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "L3GD20",
+      "url": "https://www.st.com/resource/en/datasheet/l3gd20.pdf",
+      "sha256": "40bd2de33fcae783d18928e27c54cfab45496bb8786359f31878f43c11e21d1e",
+      "page_count": 44,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS2DE12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2de12.pdf",
+      "sha256": "f92fb27b58bec57de8b72b70be5e378b44f07aa2d10755126840b95dc162ea43",
+      "page_count": 51,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS2DS12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2ds12.pdf",
+      "sha256": "d417976745afc7697ad2e91f4244bf22ab7515925012cccfdb7e22566f1e6bca",
+      "page_count": 69,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS2DU12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2du12.pdf",
+      "sha256": "35d2b671b707faa0cbee25d8a2b4cd6d62caf0b5bd6b43042cba9eaeffd11852",
+      "page_count": 58,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS2DUX12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2dux12.pdf",
+      "sha256": "110b056baffe8c6be6ad33a100b91b7fef59ebc99b51feecbf98b9b1eb2cef84",
+      "page_count": 107,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS2DUXS12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2duxs12.pdf",
+      "sha256": "82782f40586ef3f6299e9867e63b146f8233bb3ca0019be106ce927f68244f5a",
+      "page_count": 110,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS2DW12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2dw12.pdf",
+      "sha256": "5208623aa91c63a33be0e930518c20f5210c4eb76932350f35369687ae1d0dd5",
+      "page_count": 65,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS2HH12",
+      "url": "https://www.st.com/resource/en/datasheet/lis2hh12.pdf",
+      "sha256": "f73c1d52de1bf9636040bddd74b0f6eb6b70cfb02da415ef2eb8f83a4c85438f",
+      "page_count": 47,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS2MDL",
+      "url": "https://www.st.com/resource/en/datasheet/lis2mdl.pdf",
+      "sha256": "53d3461a5c8064ab94bc2da9c76a17b117a241055fb7ab59b4220f40f1666566",
+      "page_count": 36,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS3DHH",
+      "url": "https://www.st.com/resource/en/datasheet/lis3dhh.pdf",
+      "sha256": "bb9eec0a675620c7dce1526e24934d68704e4883e9eb6e84bd40747a7d787fc2",
+      "page_count": 29,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LIS3DSH",
+      "url": "https://www.st.com/resource/en/datasheet/lis3dsh.pdf",
+      "sha256": "d175331969297dd816760863fb75a1677166fe5799a8d1147d85b764a07dadd9",
+      "page_count": 58,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LM34",
+      "url": "https://www.ti.com/lit/ds/symlink/lm34.pdf",
+      "sha256": "5902e11d939fbbf94882ccc9e5b3da5dc4ab67061a673b467cad988d0261a0b5",
+      "page_count": 33,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LM45",
+      "url": "https://www.ti.com/lit/ds/symlink/lm45.pdf",
+      "sha256": "8e8a97187b53b7dbcc5a78bebe65db02659fd4f1e012195f186877daead7cb96",
+      "page_count": 20,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LM50",
+      "url": "https://www.ti.com/lit/ds/symlink/lm50.pdf",
+      "sha256": "0761264c92f30acc68fd3658a9114b173626d08acc6f5085bbb63e5be424b27c",
+      "page_count": 33,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LM60",
+      "url": "https://www.ti.com/lit/ds/symlink/lm60.pdf",
+      "sha256": "5156a70272ad089e2cd50c38ae7d184627e66e99b62364068f50f7b0679623b7",
+      "page_count": 29,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LM61",
+      "url": "https://www.ti.com/lit/ds/symlink/lm61.pdf",
+      "sha256": "dbb028ff8dfedc9275f49e849aa4bff0190d622eb8e4aae753cbe87e79c982d7",
+      "page_count": 25,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LM73",
+      "url": "https://www.ti.com/lit/ds/symlink/lm73.pdf",
+      "sha256": "17403337eae090f5931b0552539874fee842749b09eed74eb120e440a4057e64",
+      "page_count": 31,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LM75A",
+      "url": "https://www.ti.com/lit/ds/symlink/lm75a.pdf",
+      "sha256": "beb63b88795619cae54e45e3dfd68962809c458843505c3305bd36a349929f91",
+      "page_count": 31,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LMT84",
+      "url": "https://www.ti.com/lit/ds/symlink/lmt84.pdf",
+      "sha256": "ad87d637ced4b846be6b5a3e761463eed0bafa588762153ada45e826aaa7ed6e",
+      "page_count": 30,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LMT85",
+      "url": "https://www.ti.com/lit/ds/symlink/lmt85.pdf",
+      "sha256": "c89e9110e95bc47d3db921682bba0d8df9c06d696c0586bbf8a43e041d372f17",
+      "page_count": 30,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LMT86",
+      "url": "https://www.ti.com/lit/ds/symlink/lmt86.pdf",
+      "sha256": "541641c8448be4c37b3fccc2c65d3e53afa4c3d9f810b673e764349798c9f795",
+      "page_count": 30,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LMT87",
+      "url": "https://www.ti.com/lit/ds/symlink/lmt87.pdf",
+      "sha256": "1565a02c15ee8333c71c443e2a0c4a37b4d7f01cd12351290bef2451db02c7a5",
+      "page_count": 30,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LPS22DF",
+      "url": "https://www.st.com/resource/en/datasheet/lps22df.pdf",
+      "sha256": "f6b89f00da8c368f5268f9d69998a3847356affb6df0d1d32bfa2ab0c2c45b4e",
+      "page_count": 53,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LPS22HB",
+      "url": "https://www.st.com/resource/en/datasheet/lps22hb.pdf",
+      "sha256": "b64e342cb6f703926efaba1a6924fa3312a5b4d8ef811f54bc2d98b72e80d4fa",
+      "page_count": 49,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LPS22HH",
+      "url": "https://www.st.com/resource/en/datasheet/lps22hh.pdf",
+      "sha256": "4f8cf7896f3cd70dd8b9d04b7787fd4ed440f0c80769f88e30111eb9879ccf0a",
+      "page_count": 59,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LPS25HB",
+      "url": "https://www.st.com/resource/en/datasheet/lps25hb.pdf",
+      "sha256": "981945da9df55ec8d782dadbead5cdd56695be7a8081fa0b601e8d938fcd4a38",
+      "page_count": 50,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LPS27HHW",
+      "url": "https://www.st.com/resource/en/datasheet/lps27hhw.pdf",
+      "sha256": "1cb2d6f4a5e8d6d1673c540f563d4e543b775dd52f1a43ca74766196eacc5c00",
+      "page_count": 60,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LPS28DFW",
+      "url": "https://www.st.com/resource/en/datasheet/lps28dfw.pdf",
+      "sha256": "631a019392e090ee06e3afe2f84a0ed11e4c41af217ebbdd665427e13ea2b237",
+      "page_count": 51,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LPS35HW",
+      "url": "https://www.st.com/resource/en/datasheet/lps35hw.pdf",
+      "sha256": "47f633428a98b9bd4bb9068e6e23c9e7f0a3ac3ab817c979f46cd07925b5aa86",
+      "page_count": 48,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM303AGR",
+      "url": "https://www.st.com/resource/en/datasheet/lsm303agr.pdf",
+      "sha256": "97635d4cc37b14b46a1ffdbda9349d2e75b9604248d03b77d4e1971171f813da",
+      "page_count": 72,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM303AH",
+      "url": "https://www.st.com/resource/en/datasheet/lsm303ah.pdf",
+      "sha256": "8e82c593f61cd8841bb7969efff24b94190e9d331d44a92096b193cb99a64ba6",
+      "page_count": 82,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM303D",
+      "url": "https://www.st.com/resource/en/datasheet/lsm303d.pdf",
+      "sha256": "0ca590ada1050f68287b88419f3ec45b0998c99220563cc814bb3ae3dd862245",
+      "page_count": 52,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DS3TR-C",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf",
+      "sha256": "251737db70e3b6cdc217a5681dd4634a05faffd5288aff6a576078a6464a1b2b",
+      "page_count": 115,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSL",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsl.pdf",
+      "sha256": "3449f752fff3bc69023ef9da18698e8e14379e3a920093d003c867bea195bcf2",
+      "page_count": 114,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSM",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsm.pdf",
+      "sha256": "ee481465b676eacc31575dbc2f1144c1dc3f7d963c10bcadc3ab50abe4eb4f7a",
+      "page_count": 126,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSO",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dso.pdf",
+      "sha256": "dd899e37f2fc33b8592fbf6b5b9d9caa94b47c455d4d2edc3512ba2a5c3f0055",
+      "page_count": 162,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSO16IS",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dso16is.pdf",
+      "sha256": "30f343bb97cd697de5d1c18a3198a239f05e942a65668406f131660559c8673d",
+      "page_count": 107,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSO32",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dso32.pdf",
+      "sha256": "d1776336f5060da06c4fa4c3aac293372e20cffa4f9d72fe3296b9a56ed6c0b7",
+      "page_count": 153,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSO32X",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dso32x.pdf",
+      "sha256": "45325a3fe164a8aad0144bf109eaa452efd395fd158218c361015d06119f33bc",
+      "page_count": 162,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSOX",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsox.pdf",
+      "sha256": "4c7b834fcc5ca298e0a7cbe796d9f7d2def3fc19682ee490d8b6f75ecdeb71f7",
+      "page_count": 182,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSR",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsr.pdf",
+      "sha256": "3b62a8c2f38a4dd5d35cf0f21cf9c47a1832f2edaf2da4d2e5d1d51ade60d0ec",
+      "page_count": 168,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSV",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsv.pdf",
+      "sha256": "b698bb20b0defb6c5c05c32afbdcb451c171d02311a884e6e49b0d97667fafb7",
+      "page_count": 189,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSV16BX",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsv16bx.pdf",
+      "sha256": "ac1d7ddbc8c93dd96c2495e9918bfe46f034576caeab086948f9179514a38297",
+      "page_count": 149,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSV16X",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsv16x.pdf",
+      "sha256": "ec53c0e5952fc0c9587ed32b56d066016c2954bc6e9d18355b13a1c4cda17894",
+      "page_count": 198,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM6DSV32X",
+      "url": "https://www.st.com/resource/en/datasheet/lsm6dsv32x.pdf",
+      "sha256": "aaa818cafdb8a0ad08d7d71e285540910cd5812fc26f9ca5888c74784c2bb330",
+      "page_count": 198,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM9DS0",
+      "url": "https://www.st.com/resource/en/datasheet/lsm9ds0.pdf",
+      "sha256": "caf1a6fec65a2edb6dd70ea5e7fa9081a9bb1590d5859b28b790e95838ca0431",
+      "page_count": 74,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "LSM9DS1",
+      "url": "https://www.st.com/resource/en/datasheet/lsm9ds1.pdf",
+      "sha256": "3070cb353453bd55c393e2b8071f1aea120b7c694da26a658ef51b925c0550b5",
+      "page_count": 72,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "OPT3001",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3001.pdf",
+      "sha256": "f2ab3d4822cbd4e6b702b09c4c22144f6d0583931e0cfc168394de9ab942ca11",
+      "page_count": 44,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "OPT3002",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3002.pdf",
+      "sha256": "5d06e97c479871c356e92d661918b9ecfba6b14ad2beae9121891c157c84b42e",
+      "page_count": 38,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "OPT3004",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3004.pdf",
+      "sha256": "7b26d6f9f8572e4896de0abed62a943ba4c072c074c0404e8754dce7d83d6a60",
+      "page_count": 50,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "OPT3005",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3005.pdf",
+      "sha256": "984004c4a964814779f7dd04f8f199730f23db065ad1ba1ffa7c61585d7ed34c",
+      "page_count": 39,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "OPT3006",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3006.pdf",
+      "sha256": "0d61066af8d8a52872e3918e71d63ebc2c926fac5d4d031ab2782daee50c4e7d",
+      "page_count": 42,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "OPT3007",
+      "url": "https://www.ti.com/lit/ds/symlink/opt3007.pdf",
+      "sha256": "d1fd319d94df5daed357ae1ce1b0dc03a69cb133d8f3a652a29c00f4a9e14a09",
+      "page_count": 38,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "OPT4001",
+      "url": "https://www.ti.com/lit/ds/symlink/opt4001.pdf",
+      "sha256": "6b28bf2cc20228c567966fc801408e7f77d599ad15b6ef6be62281b38aa549c1",
+      "page_count": 54,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "OPT4048",
+      "url": "https://www.ti.com/lit/ds/symlink/opt4048.pdf",
+      "sha256": "bc4a9ef6b2205e38439dd59514eff819bb75e33126736c2cb93649d09b0d7ea4",
+      "page_count": 44,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "STTS22H",
+      "url": "https://www.st.com/resource/en/datasheet/stts22h.pdf",
+      "sha256": "3f6937595517c4f738021037942e7d19d5b7c84cfe4e9b7e8635fcc06ff783fe",
+      "page_count": 30,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "STTS751",
+      "url": "https://www.st.com/resource/en/datasheet/stts751.pdf",
+      "sha256": "e08195e6db93aa0e12dda3df1d461c1ad3176c7bbeb8d05b89393fbd0a7c461d",
+      "page_count": 35,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMAG5170",
+      "url": "https://www.ti.com/lit/ds/symlink/tmag5170.pdf",
+      "sha256": "9a888e7e03c7f68c15a6f18b6773a9821fcedb01d236a671fe2e81eeaf3a0d6a",
+      "page_count": 61,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMAG5273",
+      "url": "https://www.ti.com/lit/ds/symlink/tmag5273.pdf",
+      "sha256": "3fed45fde64b43affb501a9cc1408e527741df93c576987180c02f3bd5738a88",
+      "page_count": 61,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP100",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp100.pdf",
+      "sha256": "4099b7e562d9333140b60526c32908a082ef300d019266161e9a2b118e52fc29",
+      "page_count": 31,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP101",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp101.pdf",
+      "sha256": "4099b7e562d9333140b60526c32908a082ef300d019266161e9a2b118e52fc29",
+      "page_count": 31,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP103",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp103.pdf",
+      "sha256": "d6d8e0f618d1f9acadb6c1963661dbc2e6338714c87314ab04be16fc38ff6a24",
+      "page_count": 30,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP104",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp104.pdf",
+      "sha256": "041a6c69f5ed7279f6fa069d13166be60c2d7034824e4e14dda7b1e207648125",
+      "page_count": 23,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP105",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp105.pdf",
+      "sha256": "4c252b0a1ad614ae8b0dfc3ab310c343cda85f1519bdf8489482079ee14e42d2",
+      "page_count": 21,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP106",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp106.pdf",
+      "sha256": "847213c04be2a9723dc97fae5226afdc036e8207d2404c68a4beae7aa33a327f",
+      "page_count": 20,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP107",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp107.pdf",
+      "sha256": "28165582ff4e76825cfa0ed8c760100648ff6afc46e25929d808e8f2c2125660",
+      "page_count": 41,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP1075",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp1075.pdf",
+      "sha256": "266c9a50a80b100884e9cf378b320ea51412023057fed8ba4fbdf85502340cf2",
+      "page_count": 49,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP108",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp108.pdf",
+      "sha256": "ec086250fc4331e7fc923be62173062bbf0fccedad6894c2741b73cd1c084556",
+      "page_count": 27,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP110",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp110.pdf",
+      "sha256": "bbc062919ec87e8bc3d1fc3e5bfca3c2d7b2f442d29a4f4c961204720ea136e7",
+      "page_count": 44,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP114",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp114.pdf",
+      "sha256": "827957c1ccd6dc7cdacf66d9ad74de5922b4bc849dcc845e1beb0a6a5b590e7c",
+      "page_count": 50,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP116",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp116.pdf",
+      "sha256": "93cd03c207c2871918ef9341a4baf189e2c0ea9a795673a7011e367c4e75c1c0",
+      "page_count": 47,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP118",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp118.pdf",
+      "sha256": "fc651c8f5e787b68b00632b9a9f82cc4d9f99c5384d00719859688f67029346f",
+      "page_count": 43,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP119",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp119.pdf",
+      "sha256": "7eabaeda3a51298768e188bfefafbdb8e8ae1f20200019c5fbb654d977adaa30",
+      "page_count": 48,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP121",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp121.pdf",
+      "sha256": "b96ee6b8519bd3154a6fed9617c975ef848c1aa8a07a57306afdda075fc0870c",
+      "page_count": 19,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP122",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp122.pdf",
+      "sha256": "1b44d3ad5232161de534a52eb8613cd0de0d302e866139d7feb3c8fdbd313b2f",
+      "page_count": 21,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP123",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp123.pdf",
+      "sha256": "b96ee6b8519bd3154a6fed9617c975ef848c1aa8a07a57306afdda075fc0870c",
+      "page_count": 19,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP124",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp124.pdf",
+      "sha256": "1b44d3ad5232161de534a52eb8613cd0de0d302e866139d7feb3c8fdbd313b2f",
+      "page_count": 21,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP125",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp125.pdf",
+      "sha256": "aa8cda8daed5042cd75a3741bb4abb5886983b0c94d4d1543859df88750820c4",
+      "page_count": 14,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP126",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp126.pdf",
+      "sha256": "6d9bab59b2814422d7bc1dff8fbd203df26e92ee40075b613c1f1fbb59eddfef",
+      "page_count": 49,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP144",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp144.pdf",
+      "sha256": "acca941ef9b7b0871d5b375f95c752afd431791512edb4591c5250989d584714",
+      "page_count": 41,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP1826",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp1826.pdf",
+      "sha256": "2738904e9c8abe9135e78a489509a5e0df89c051aaca741059bc4f81a7cd9647",
+      "page_count": 69,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP235",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp235.pdf",
+      "sha256": "a15e72bf95780b436de1e407af8029e1962896878963f2238067641749c546b3",
+      "page_count": 25,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "TMP236",
+      "url": "https://www.ti.com/lit/ds/symlink/tmp236.pdf",
+      "sha256": "a15e72bf95780b436de1e407af8029e1962896878963f2238067641749c546b3",
+      "page_count": 25,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "VL53L3CX",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l3cx.pdf",
+      "sha256": "3ce1415d511e838685dd03a84b8b67ee7374e905da222ba8514d72a9e1ace724",
+      "page_count": 35,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "VL53L4CD",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l4cd.pdf",
+      "sha256": "0beb3bb5e958f6e463d919c3ac9226e5f3bdfa15fd09b009208a24d791e7707c",
+      "page_count": 37,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "VL53L4CX",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l4cx.pdf",
+      "sha256": "fd32fb71601351a85ffc3632da0acae27518ce2c25d9df4a65f1f2cda6bab377",
+      "page_count": 38,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "VL53L5CX",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l5cx.pdf",
+      "sha256": "34999dcf5ea4483065c4245e6908e6529b46e31f26f1f40e124d3a453d65d6af",
+      "page_count": 40,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "VL53L7CX",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l7cx.pdf",
+      "sha256": "56a5e22b23c4a4e01de43cd138b01ba88a717be0a8d898e7326d7a6ad2392f60",
+      "page_count": 41,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "VL53L8CX",
+      "url": "https://www.st.com/resource/en/datasheet/vl53l8cx.pdf",
+      "sha256": "a24f8bbc282bf04e28aa285b80fc165517f70704457a1b9546e8a18adfb3f844",
+      "page_count": 45,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    },
+    {
+      "code": "VL6180X",
+      "url": "https://www.st.com/resource/en/datasheet/vl6180x.pdf",
+      "sha256": "87e1b09668160d714276cdb093a41e7bf18120c81c25888a309e8fcfdc6a6724",
+      "page_count": 87,
+      "body_identity": true,
+      "evidence_pages_in_bounds": true
+    }
+  ]
+}

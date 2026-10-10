@@ -1,0 +1,47 @@
+Datasheet Analyzer 1.0.10 — Ana algoritma koruma kontrolü
+
+Referans: DatasheetAnalyzer_1.0.9_Kaynak.rar
+Referans arşiv SHA-256: c9c48e802e5391f4573698604d3688414dcf1be81af5f3fb3f74aea889c3acdc
+
+1.0.9 kaynağındaki features/sensoralternatives dışındaki mevcut 119 ana Kotlin dosyası
+ve toplam 144 app/src/main kaynak/varlık dosyası SHA-256 ile birebir aynı.
+HomeScreen.kt, ResultsScreen.kt, DatasheetApp.kt ve tüm mevcut PDF/OCR/doğrulama/
+indirme/rapor/önbellek kaynakları bu karşılaştırmaya dahildir.
+Yeni sensör kayıtları ana PDF motoruna, analiz sonuçlarına veya önbelleğe erişmez.
+
+Kontrol: sha256sum -c ALGORITMA_KORUMA_1.0.10.sha256
+Sürüm dışındaki üretim kodu değişiklikleri yalnız features/sensoralternatives içindedir.
+Sürüm adı 1.0.10, sürüm kodu 18. Katalog 22 profilden 160 profile genişledi.
+Arama/filtre, ölçüm sınıfları, eksik eksen ve ayrı besleme aralığı kontrolleri katalog modülündedir.
+
+Aşağıdaki 1.0.9 tarihsel kontrol kaydı korunmuştur:
+
+Datasheet Analyzer 1.0.9 — Ana algoritma koruma kontrolü
+
+Referans: DatasheetAnalyzer_1.0.8_Kaynak.rar
+Referans arşiv SHA-256: 33482c8e6f4bbdbb156934696b37cf9e4022cda40f0c40f2f6406fe140acc28e
+
+Referans pakette mevcut 126 ana Kotlin kaynak dosyasının SHA-256 değerleri birebir aynı.
+Bu kapsam PDF ayrıştırma/izole süreç, OCR, tablo/değer okuma, güvenlik, kimlik doğrulama,
+arama/indirme/depo, PDF/CSV dışa aktarma, kamera, grafik ve mevcut ViewModel kaynaklarını içerir.
+Dosya listesi ve referans hash değerleri ALGORITMA_KORUMA.sha256 içindedir.
+Linux doğrulama: sha256sum -c ALGORITMA_KORUMA.sha256
+
+Mevcut kodda izin verilen değişiklikler:
+- app/build.gradle.kts: yalnız sürüm kodu 17 ve sürüm adı 1.0.9.
+- HomeScreen.kt ve ResultsScreen.kt: muadil ekranını açan isteğe bağlı callback ve düğme.
+- DatasheetApp.kt: bağımsız sensors rotası; aday seçilince yalnız mevcut onPartNumberChanged çağrısı.
+README ve SURUM_KONTROLU yalnız sürüm belgeleridir.
+
+Yeni modül: features/sensoralternatives. Ana PDF motoru, önbellek veya analiz sonucuna erişmez.
+Üretici PDF'leri ayrı harici görüntüleyiciyle yalnız kullanıcı dokununca açılır.
+Sensör seçimi analiz başlatmaz; mevcut teknik kriterler ve grafik sorguları korunur.
+
+Önceki 1.0.8 RAR'da bulunmayan iki önbellek dosyası eksik kaynak olarak tamamlandı:
+data/cache/DocumentCache.kt ve RecentSearches.kt. Asama7 paketindeki CRC doğrulanmış kaynaklar
+ve 1.0.8 APK'sındaki sınıflar karşılaştırılarak mevcut saklama davranışı geri alındı.
+DocumentCache politikası 704, 7 gün/12 belge/100 MB sınırları, kaynak/kimlik/bütünlük kontrolleri
+ve son aramalardaki isteğe bağlı grafik başlığı alanı 1.0.8 davranışıyla korunur.
+Bu iki dosya referans RAR'da olmadığı için yukarıdaki birebir kaynak hash karşılaştırmasına dahil değildir.
+Saklama uyumluluğu ve önceki önbellek/güvenlik testleri çalıştırılır.
+PDF rapor motorunun Creator sürüm etiketi 1.0.8 olarak korunmuştur; motor kaynağı değiştirilmemiştir.

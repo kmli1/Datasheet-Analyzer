@@ -1,0 +1,8 @@
+-keep class com.tom_roush.** { *; }
+-keep class org.apache.harmony.** { *; }
+-keepattributes Signature,InnerClasses,EnclosingMethod
+-dontwarn java.awt.**
+-dontwarn javax.naming.**
+-dontwarn javax.xml.stream.**
+-dontwarn com.gemalto.jp2.JP2Decoder
+-dontwarn com.gemalto.jp2.JP2Encoder
