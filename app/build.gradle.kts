@@ -13,17 +13,22 @@ val stage7ReleaseSigning = providers.gradleProperty("releaseSigningFile").orNull
     Properties().also { properties -> file.inputStream().use { properties.load(it) } } to file.parentFile
 }
 
+val localDebugKeystore = rootProject.file("signing/debug.keystore")
+
 android {
     namespace = "com.example.datasheetanalyzer"
     compileSdk = 36
 
-    // Development APK only. Kept with the project so later test builds can update this APK.
+    // An optional local test key preserves earlier development APK signatures.
+    // A fresh clone uses Android's default debug signing; keys stay out of Git.
     signingConfigs {
         getByName("debug") {
-            storeFile = rootProject.file("signing/debug.keystore")
-            storePassword = "android"
-            keyAlias = "androiddebugkey"
-            keyPassword = "android"
+            if (localDebugKeystore.isFile) {
+                storeFile = localDebugKeystore
+                storePassword = "android"
+                keyAlias = "androiddebugkey"
+                keyPassword = "android"
+            }
         }
     }
 

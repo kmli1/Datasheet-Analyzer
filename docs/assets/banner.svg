@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="500" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+  <title id="title">Datasheet Analyzer — every value, back to its source</title>
+  <desc id="desc">A black and orange electronics cover with an illustrated PDF and an evidence table. This is a documentation illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10151d"/><stop offset="1" stop-color="#080b10"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb268"/><stop offset="1" stop-color="#ff7f1e"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#27303d" stroke-width="0.6"/></pattern>
+  </defs>
+  <rect width="1440" height="500" rx="24" fill="url(#bg)"/>
+  <rect x="760" y="0" width="680" height="500" fill="url(#grid)" opacity="0.32"/>
+  <path d="M824 100 H884 L934 50 H1110 M848 448 H974 L1024 398 H1404 M1370 42 V130 L1320 180 V242" stroke="#ff8a26" stroke-width="2" opacity="0.22" fill="none"/>
+  <g fill="#ff8a26" opacity="0.5"><circle cx="824" cy="100" r="4"/><circle cx="1110" cy="50" r="4"/><circle cx="848" cy="448" r="4"/><circle cx="1370" cy="42" r="4"/></g>
+  <rect x="64" y="58" width="36" height="36" rx="10" fill="#ff8a26"/>
+  <path d="M85 64 L73 81 H81 L78 89 L92 73 H83 Z" fill="#10151d"/>
+  <text x="116" y="81" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#ffae63">ELECTRONICS / ANDROID</text>
+  <g font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="58" fill="#f4f6fa">
+    <text x="64" y="180">Every value.</text>
+    <text x="64" y="252">Back to its source.</text>
+  </g>
+  <text x="64" y="315" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="500" fill="#ff8a26">Datasheet Analyzer</text>
+  <text x="64" y="351" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#a9b3c1">Component search. Technical tables. Traceable evidence.</text>
+  <g font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="600">
+    <rect x="64" y="394" width="102" height="36" rx="18" fill="#262019" stroke="#644026"/><text x="84" y="417" fill="#ffb373">v1.0.10</text>
+    <rect x="180" y="394" width="140" height="36" rx="18" fill="#141e25" stroke="#304451"/><text x="201" y="417" fill="#c7dce6">Android 8.0+</text>
+    <rect x="334" y="394" width="181" height="36" rx="18" fill="#132420" stroke="#28554a"/><text x="354" y="417" fill="#72d9bd">160 sensor profiles</text>
+  </g>
+  <g transform="translate(902 100) rotate(-8 105 122)">
+    <rect x="8" y="11" width="210" height="248" rx="17" fill="#05070b" opacity="0.6"/>
+    <rect width="210" height="248" rx="17" fill="#171e29" stroke="#485567" stroke-width="1.5"/>
+    <path d="M153 0 V45 Q153 56 164 56 H210" fill="#202c3b" stroke="#485567" stroke-width="1.5"/>
+    <rect x="23" y="25" width="67" height="28" rx="7" fill="#ff8a26"/>
+    <text x="39" y="44" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#141923">PDF</text>
+    <text x="23" y="91" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#e5eaf2">SOURCE DOCUMENT</text>
+    <g stroke="#536176" stroke-width="5" stroke-linecap="round"><path d="M25 112 H176"/><path d="M25 133 H136"/><path d="M25 154 H174"/></g>
+    <rect x="20" y="175" width="170" height="33" rx="7" fill="#3a291d" stroke="#ae6228"/>
+    <path d="M30 192 H161" stroke="#ffad66" stroke-width="4" stroke-linecap="round"/>
+    <path d="M25 227 H112" stroke="#536176" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <path d="M953 330 Q925 381 1003 384 H1072" fill="none" stroke="#ff9b49" stroke-width="2.5" stroke-dasharray="6 6"/>
+  <path d="M1063 378 L1073 384 L1063 390" fill="none" stroke="#ff9b49" stroke-width="2.5"/>
+  <g transform="translate(1068 244)" font-family="DejaVu Sans,Arial,sans-serif">
+    <rect x="7" y="10" width="304" height="192" rx="15" fill="#030509" opacity="0.75"/>
+    <rect width="304" height="192" rx="15" fill="#0f2024" stroke="#326a67" stroke-width="1.5"/>
+    <circle cx="23" cy="28" r="5" fill="#52d1b7"/>
+    <text x="39" y="33" font-size="13" font-weight="700" letter-spacing="0.9" fill="#a1eadb">PARAMETER EVIDENCE</text>
+    <path d="M17 52 H286" stroke="#285151"/>
+    <g font-size="11" font-weight="700" fill="#84ada9"><text x="23" y="77">MIN</text><text x="98" y="77">TYP</text><text x="173" y="77">MAX</text><text x="248" y="77">UNIT</text></g>
+    <g font-size="21" fill="#d3e9e6"><text x="27" y="112">—</text><text x="103" y="112">—</text><text x="179" y="112">—</text><text x="253" y="112">—</text></g>
+    <path d="M18 132 H286" stroke="#285151"/>
+    <text x="23" y="158" font-size="12" fill="#66d4be">Evidence · conditions · source page</text>
+    <text x="23" y="178" font-size="10" fill="#719e98">Keep absent values absent.</text>
+  </g>
+</svg>
